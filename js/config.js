@@ -23,8 +23,8 @@ const GLOBUSNET_CONFIG = {
        5. Optional: set up email notifications + spam filter in your Formcarry dashboard
   */
   formcarry: {
-    enabled: false,                         // ← set to true once you add your ID
-    formId: "YOUR_FORMCARRY_FORM_ID_HERE",  // ← paste your Formcarry form ID here
+    enabled: true,
+    formId: "cxJd01H31MD",
     endpoint: "https://formcarry.com/s/",   // do not change
 
     // Which forms to connect (matches the id= attribute on each <form>)

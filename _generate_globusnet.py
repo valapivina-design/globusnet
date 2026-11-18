@@ -64,19 +64,42 @@ REVIEW_CSS = """
     .complaint-badge{display:inline-flex;align-items:center;gap:.4rem;font-size:.75rem;font-weight:600;padding:.35rem .85rem;border-radius:4px;margin-bottom:1rem}
     .badge-red{background:rgba(185,28,28,.1);color:#b91c1c;border:1px solid rgba(185,28,28,.25)}
     .badge-yellow{background:rgba(180,83,9,.08);color:#b45309;border:1px solid rgba(180,83,9,.22)}
-    .complaint-box{background:var(--bg-3);border:1px solid var(--line);border-left:3px solid #b91c1c;border-radius:4px;padding:1.2rem 1.5rem;margin:1rem 0}
-    .complaint-box .cq{font-size:.72rem;color:var(--blue);font-weight:600;margin-bottom:.45rem;text-transform:uppercase;letter-spacing:.06em}
-    .complaint-box p{margin:0;font-size:.88rem;font-style:italic}
+    .complaint-box{background:#fff;border:1px solid #e2e8f0;border-left:3px solid #b91c1c;border-radius:4px;padding:1.15rem 1.35rem;margin:0 0 .85rem;box-shadow:none}
+    .complaint-box .cq{font-size:.7rem;color:var(--blue);font-weight:600;margin-bottom:.4rem;text-transform:uppercase;letter-spacing:.07em}
+    .complaint-box p{margin:0;font-size:.88rem;font-style:italic;color:var(--text-2);line-height:1.55}
+    .page-hero h1{overflow-wrap:anywhere;word-break:break-word;max-width:100%}
     .checklist{list-style:none!important;margin-left:0!important}
     .checklist li{padding:.35rem 0;display:flex;gap:.65rem}
     .checklist li::before{content:"✓";color:var(--blue);font-weight:700;flex-shrink:0}
-    .sidebar-widget{background:var(--bg-3);border:1px solid var(--line);border-radius:6px;padding:1.5rem;margin-bottom:1.2rem;position:sticky;top:92px}
+    .sidebar-widget{background:var(--bg-3);border:1px solid var(--line);border-radius:6px;padding:1.5rem;margin-bottom:1.2rem}
+    .sidebar-widget.sticky-form{position:sticky;top:92px}
     .sidebar-widget h3{font-family:'Source Serif 4',Georgia,serif;font-size:1rem;color:var(--text);margin-bottom:.85rem;padding-bottom:.6rem;border-bottom:1px solid var(--line);font-weight:600}
+    .sidebar-widget .form-group{margin-bottom:.75rem}
+    .sidebar-widget .form-group label{color:var(--text-2);margin-bottom:.35rem}
+    .sidebar-widget .form-group input,
+    .sidebar-widget .form-group select,
+    .sidebar-widget .form-group textarea{
+      width:100%;background:#fff;border:1px solid #e2e8f0;border-radius:4px;
+      padding:.7rem .85rem;color:var(--ink);font-family:'DM Sans',sans-serif;font-size:.86rem;
+      line-height:1.35;outline:none;appearance:none;-webkit-appearance:none;box-shadow:none;
+      transition:border-color .15s,box-shadow .15s
+    }
+    .sidebar-widget .form-group select{
+      padding-right:2.3rem;cursor:pointer;
+      background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%2364748b' d='M1.2 1.5L6 6.3 10.8 1.5 12 2.7 6 8.7 0 2.7z'/%3E%3C/svg%3E");
+      background-repeat:no-repeat;background-position:right .85rem center;background-size:12px 8px;background-color:#fff
+    }
+    .sidebar-widget .form-group select option{background:#fff;color:var(--ink)}
+    .sidebar-widget .form-group input:focus,
+    .sidebar-widget .form-group select:focus,
+    .sidebar-widget .form-group textarea:focus{border-color:var(--blue);box-shadow:0 0 0 3px rgba(37,99,235,.12)}
+    .sidebar-widget .form-group textarea{min-height:88px;resize:vertical}
+    .sidebar-widget form .btn{border-radius:4px!important;width:100%;margin-top:.15rem}
     .slinks{list-style:none;margin:0;padding:0}
     .slinks li{padding:.45rem 0;border-bottom:1px solid rgba(15,23,42,.06)}
     .slinks a{color:var(--text-2);font-size:.86rem;text-decoration:none}
     .slinks a:hover{color:var(--blue)}
-    @media(max-width:768px){.review-layout{grid-template-columns:1fr}}
+    @media(max-width:768px){.review-layout{grid-template-columns:1fr}.sidebar-widget.sticky-form{position:static}}
 """
 
 
@@ -198,7 +221,7 @@ def review_html(b):
     <li><strong>File with your financial regulator:</strong> FCA (UK), SEC/CFTC (US), ASIC (AU)</li>
     <li><strong>Report the website</strong> to Google Safe Browsing and Microsoft/Bing</li>
     <li><strong>Document everything:</strong> screenshots, transaction IDs, all communications</li>
-    <li><strong>Consider a private investigator</strong> for losses of $1,000+ — <a href="../pages/private-investigator.html">find one here</a></li>
+    <li><strong>Consider a private investigator</strong> — consultation is free — <a href="../pages/private-investigator.html">find one here</a></li>
   </ul>
 
   <h2>Frequently Asked Questions</h2>
@@ -220,16 +243,16 @@ def review_html(b):
 </div>
 
 <div>
-  <div class="sidebar-widget">
+  <div class="sidebar-widget sticky-form">
     <h3>Lost Money to {name}?</h3>
-    <p style="color:var(--text-2);font-size:.85rem;margin-bottom:1.2rem">Free case review — licensed investigators respond within 24 hours.</p>
-    <form action="https://formcarry.com/s/vb0cjK_9y7T" method="POST" accept-charset="UTF-8">
+    <p style="color:var(--text-2);font-size:.85rem;margin-bottom:1.1rem">Consultation is free — licensed investigators respond within 24 hours.</p>
+    <form class="contact-form" data-formcarry action="https://formcarry.com/s/cxJd01H31MD" method="POST" accept-charset="UTF-8">
     <input type="hidden" name="_page" value="reviews_{slug}-review">
     <div class="form-group"><label>Your Email</label><input type="email" placeholder="your@email.com" name="email" required></div>
     <div class="form-group"><label>Amount Lost</label>
-    <select name="loss_amount"><option value="">Select range...</option><option>Under $1,000</option><option>$1,000–$25,000</option><option>$25,000–$100,000</option><option>Over $100,000</option></select></div>
-    <div class="form-group"><label>What happened?</label><textarea name="description" placeholder="Brief description..."></textarea></div>
-    <button type="submit" class="btn btn-amber" style="width:100%;border:none;cursor:pointer;font-family:inherit">Submit Free Case Review</button>
+    <select name="loss_amount" required><option value="" disabled selected>Select range...</option><option value="Under $1,000">Under $1,000</option><option value="$1,000–$25,000">$1,000–$25,000</option><option value="$25,000–$100,000">$25,000–$100,000</option><option value="Over $100,000">Over $100,000</option></select></div>
+    <div class="form-group"><label>What happened?</label><textarea name="description" placeholder="Brief description..." required></textarea></div>
+    <button type="submit" class="btn btn-amber" style="border:none;cursor:pointer;font-family:inherit">Request Free Consultation</button>
     </form>
   </div>
   <div class="sidebar-widget">
@@ -255,7 +278,7 @@ def review_html(b):
 <section class="cta-section">
   <h2>Were You Defrauded by {name}?</h2>
   <p>Our licensed investigators specialize in broker fraud. Get a free, confidential case assessment today.</p>
-  <a href="../pages/contact.html" class="btn btn-amber">Get Free Case Review</a>
+  <a href="../pages/contact.html" class="btn btn-amber">Get Free Consultation</a>
   <a href="../pages/report-a-scam.html" class="btn btn-outline" style="margin-left:1rem">Report Now</a>
 </section>
 
@@ -646,7 +669,7 @@ def write_home():
     </div>
     <div style="background:#fff;border:1px solid var(--line);border-radius:6px;padding:1.5rem;">
       <h3 style="font-family:'Source Serif 4',Georgia,serif;margin-bottom:.5rem;">Investigator Help</h3>
-      <p style="color:var(--text-2);font-size:.9rem;">Connect with licensed investigators for cases with $1,000+ in verified losses.</p>
+      <p style="color:var(--text-2);font-size:.9rem;">Connect with licensed investigators. Consultation is free.</p>
       <a href="pages/contact.html" style="color:var(--blue);font-weight:600;font-size:.85rem;">Get help →</a>
     </div>
   </div>
@@ -654,8 +677,8 @@ def write_home():
 
 <section class="cta-section">
   <h2>Lost money to an online broker?</h2>
-  <p>Document everything, report quickly, and request a free case review.</p>
-  <a href="pages/contact.html" class="btn btn-amber">Free Case Review</a>
+  <p>Document everything, report quickly, and request a free consultation.</p>
+  <a href="pages/contact.html" class="btn btn-amber">Free Consultation</a>
 </section>
 
 <div id="footer-placeholder"></div>

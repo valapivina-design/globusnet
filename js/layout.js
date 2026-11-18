@@ -40,8 +40,8 @@ const FOOTER_HTML = `
   <div class="footer-grid">
     <div class="footer-brand">
       <a href="index.html" class="nav-logo">Globus<span>Net</span></a>
-      <p>Report fraud. Report a scam. On-chain crypto forensics and licensed investigators worldwide. Minimum $1,000 in losses. Action Fraud, FTC, BaFin and 50+ reporting authorities covered.</p>
-      <div class="footer-badge">Minimum $1,000 · On-Chain Forensics · 50+ Countries</div>
+      <p>Report fraud. Report a scam. On-chain crypto forensics and licensed investigators worldwide. Free consultation. Action Fraud, FTC, BaFin and 50+ reporting authorities covered.</p>
+      <div class="footer-badge">Free Consultation · On-Chain Forensics · 50+ Countries</div>
     </div>
     <div class="footer-col">
       <h4>Report</h4>
@@ -80,7 +80,7 @@ const FOOTER_HTML = `
   </div>
   <div class="footer-bottom">
     <p>© 2026 GlobusNet. All rights reserved. Not legal or financial advice.</p>
-    <p>Minimum case size: $1,000 USD in verifiable losses.</p>
+    <p>Consultation is free. Not legal or financial advice.</p>
   </div>
 </footer>`;
 
