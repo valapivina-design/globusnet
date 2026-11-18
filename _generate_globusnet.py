@@ -151,6 +151,7 @@ def review_html(b):
   {{"@context":"https://schema.org","@type":"Article","headline":"{schema_headline}","description":"{b['blurb']}","author":{{"@type":"Organization","name":"{BRAND}"}},"publisher":{{"@type":"Organization","name":"{BRAND}"}}}}
   </script>
   <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/comments.css">
   <style>{REVIEW_CSS}
   </style>
 </head>
@@ -160,7 +161,7 @@ def review_html(b):
 
 <div class="page-hero">
   <div class="hero-badge">{b['type']} · Scam Check</div>
-  <h1>Is {name} a Scam? {name} Review</h1>
+  <h1 data-company="{name}">Is {name} a Scam? {name} Review</h1>
   <p>Is {name} legit? {b['blurb']}</p>
 </div>
 
@@ -252,7 +253,7 @@ def review_html(b):
     <div class="form-group"><label>Amount Lost</label>
     <select name="loss_amount" required><option value="" disabled selected>Select range...</option><option value="Under $1,000">Under $1,000</option><option value="$1,000–$25,000">$1,000–$25,000</option><option value="$25,000–$100,000">$25,000–$100,000</option><option value="Over $100,000">Over $100,000</option></select></div>
     <div class="form-group"><label>What happened?</label><textarea name="description" placeholder="Brief description..." required></textarea></div>
-    <button type="submit" class="btn btn-amber" style="border:none;cursor:pointer;font-family:inherit">Request Free Consultation</button>
+    <button type="submit" class="btn btn-amber btn-block">Request Free Consultation</button>
     </form>
   </div>
   <div class="sidebar-widget">
@@ -277,7 +278,7 @@ def review_html(b):
 
 <section class="cta-section">
   <h2>Were You Defrauded by {name}?</h2>
-  <p>Our licensed investigators specialize in broker fraud. Get a free, confidential case assessment today.</p>
+  <p>Our licensed investigators specialize in broker fraud. Get a free, confidential consultation today.</p>
   <a href="../pages/contact.html" class="btn btn-amber">Get Free Consultation</a>
   <a href="../pages/report-a-scam.html" class="btn btn-outline" style="margin-left:1rem">Report Now</a>
 </section>
@@ -285,6 +286,8 @@ def review_html(b):
 <div id="footer-placeholder"></div>
 <script src="../js/config.js"></script>
 <script src="../js/layout.js"></script>
+<script src="../js/comments.js"></script>
+<script src="../js/comments-inject.js"></script>
 </body>
 </html>
 """
