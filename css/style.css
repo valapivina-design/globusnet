@@ -37,6 +37,7 @@
 }
 
 
+
 /* ─── RESET ─── */
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; font-size: 16px; }
@@ -1313,3 +1314,36 @@ section { padding: 4.5rem 4%; }
   font-weight: 600;
   color: var(--blue) !important;
 }
+
+
+/* ─── Light corporate overrides ─── */
+.page-hero h1, .sec-title, .cta-section h2, .article-body h2, footer .nav-logo { color: var(--ink); }
+.page-hero p, .cta-section p { color: var(--text-2); }
+.page-hero { background: linear-gradient(180deg, #eff6ff 0%, #f8fafc 100%); border-bottom: 1px solid var(--line); }
+.hero-badge, .sec-tag {
+  color: var(--blue) !important;
+  background: var(--blue-dim) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 4px !important;
+}
+.btn-amber, .btn-primary {
+  background: var(--blue) !important;
+  color: #fff !important;
+  border-radius: 4px !important;
+  box-shadow: none !important;
+}
+.btn-amber:hover, .btn-primary:hover { background: var(--blue-2) !important; }
+.btn-outline { border-color: var(--blue) !important; color: var(--blue) !important; border-radius: 4px !important; }
+.cta-section { background: #eff6ff; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+footer { background: var(--ink); color: var(--fog); }
+footer .nav-logo { color: #fff !important; }
+footer a { color: #94a3b8; }
+.breadcrumb { color: var(--fog-mid); }
+.breadcrumb a { color: var(--blue); }
+.alert-amber { background: rgba(37,99,235,.06); border: 1px solid rgba(37,99,235,.2); }
+.form-group label { color: var(--text-2); }
+.form-group input, .form-group select, .form-group textarea {
+  background: #fff; border: 1px solid var(--line); color: var(--ink); border-radius: 4px;
+}
+.mobile-overlay .mobile-nav a { color: #cbd5e1; }
+.mobile-cta { background: var(--blue) !important; color: #fff !important; border-radius: 4px !important; }

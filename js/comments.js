@@ -341,7 +341,7 @@ window.SITE_COMMENTS = {
       "importantLoss": true,
       "support": {
         "date": "2026-10-10",
-        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "text": "Thank you for writing. GlobusNet can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
         "ctaLabel": "Book a free consultation →",
         "ctaHref": "../pages/contact.html"
       }
@@ -546,7 +546,7 @@ window.SITE_COMMENTS = {
       "importantLoss": true,
       "support": {
         "date": "2026-10-11",
-        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "text": "Thank you for writing. GlobusNet can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
         "ctaLabel": "Book a free consultation →",
         "ctaHref": "../pages/contact.html"
       }
@@ -874,7 +874,7 @@ window.SITE_COMMENTS = {
       "importantLoss": true,
       "support": {
         "date": "2026-11-04",
-        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "text": "Thank you for writing. GlobusNet can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
         "ctaLabel": "Book a free consultation →",
         "ctaHref": "../pages/contact.html"
       }
@@ -1325,7 +1325,7 @@ window.SITE_COMMENTS = {
       "importantLoss": true,
       "support": {
         "date": "2026-10-21",
-        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "text": "Thank you for writing. GlobusNet can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
         "ctaLabel": "Book a free consultation →",
         "ctaHref": "../pages/contact.html"
       }
@@ -1595,6 +1595,4065 @@ window.SITE_COMMENTS = {
       "title": "cofc-wsb.xyz: Le gestionnaire a disparu",
       "text": "J’ai conservé chats, reçus et références. J’ai déposé via un courtier par appel avec un dépôt Apple Pay. (COFC WSB) Pouvez-vous regarder le dossier discrètement ?",
       "lang": "fr",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "steadfast-investment-review": [
+    {
+      "name": "Jonas Olsen",
+      "initials": "JO",
+      "country": "Austria",
+      "date": "2026-09-17",
+      "title": "Steadfast Investment Ltd: Support-Schleife ohne Auszahlung ($42,500)",
+      "text": "Auf dem Dashboard stand Gewinn, aber etwa $42,500 wurden nicht freigegeben. Zuerst wirkte einen Recovery-Chat normal nach meiner Überweisung in zwei Tranchen. Es lief unter dem Namen Steadfast Investment Ltd. Gibt es einen sinnvollen nächsten Schritt?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-19",
+        "text": "Es tut uns leid. Für eine vertrauliche Prüfung senden Sie Zeitablauf, Zahlungsweg und vorhandene Chat-/Transfernachweise.",
+        "ctaLabel": "Kontakt für eine Beratung →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Felix Petrov",
+      "initials": "FP",
+      "country": "Romania",
+      "date": "2026-08-06",
+      "title": "Suport care amână fără eliberare / Steadfast Investment Ltd",
+      "text": "Pe un manager pe WhatsApp părea normal după transfer în două tranșe. Cui trimit calendarul și dovezile? O retragere test a mers o dată; cea reală nu. A fost sub numele Steadfast Investment Ltd.",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Yara Vogel",
+      "initials": "YV",
+      "country": "Singapore",
+      "date": "2026-08-05",
+      "title": "Support loop — no real release of funds · e-wallet top-up",
+      "text": "Followed instructions from email support only and completed a e-wallet top-up. I dealt with what presented as Steadfast Investment Ltd. Withdrawals then stalled and chat only recycled the same checklist. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "webfor99-review": [
+    {
+      "name": "Rafael Okonkwo",
+      "initials": "RO",
+      "country": "Brazil",
+      "date": "2026-10-28",
+      "title": "just over £9,000 · Gestor sumiu depois do pedido maior",
+      "text": "Mostravam lucros, mas reteve cerca de just over £9,000 sem explicação. Depositei via a app móvel com um SEPA no mesmo dia. (Webfor99) Há um próximo passo prático?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-30",
+        "text": "Obrigado pela mensagem. Descreva o pagamento, a falha do saque e IDs de ticket; comparamos com o registo público.",
+        "ctaLabel": "Contacte-nos para uma consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Soren Müller",
+      "initials": "SM",
+      "country": "Canada",
+      "date": "2026-10-11",
+      "title": "webfor99.com: Account frozen when I asked for cash out",
+      "text": "Onboarded through their mobile app and sent a same-day SEPA. Is there a practical next step before I chase banks or police alone? They cited compliance holds that never resolved into a transfer. Profile concerned: Webfor99.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Clara Vogel",
+      "initials": "CV",
+      "country": "Norway",
+      "date": "2026-09-07",
+      "title": "Support loop — no real release of funds (webfor99.com)",
+      "text": "Started with a e-wallet top-up; activity looked normal at first on an Instagram lead form. Any guidance on what to keep and where to send it? I still have the chat log, receipts, and wallet/reference IDs. Profile concerned: Webfor99.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "u-vip-stock-insights-review": [
+    {
+      "name": "Marcus Dubois",
+      "initials": "MD",
+      "country": "Norway",
+      "date": "2026-11-03",
+      "title": "Test withdrawal worked once, then nothing (U VIP Stock)",
+      "text": "I am missing close to €48,900 that still sits on-screen while payouts fail. Onboarded through an account manager on WhatsApp and sent a e-wallet top-up. Domain on my notes: U-VIP Stock Insights. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-06",
+        "text": "We’re sorry this happened. If you want a confidential review, contact us with the account timeline, payment method, and any chat or transfer references you still have.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Ravi Whitmore",
+      "initials": "RW",
+      "country": "Italy",
+      "date": "2026-10-06",
+      "title": "Urgente: fondi bloccati in “verifica” · deposito Apple Pay",
+      "text": "Ho versato tramite un manager su WhatsApp con un deposito Apple Pay. C’è un passo successivo concreto? I prelievi si sono fermati; la chat ripeteva solo checklist. (U-VIP Stock Insights)",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Omar Romano",
+      "initials": "OR",
+      "country": "Sweden",
+      "date": "2026-08-28",
+      "title": "U VIP Stock: Support loop — no real release of funds",
+      "text": "Followed instructions from a cold-call broker desk and completed a same-day SEPA. Profile concerned: U-VIP Stock Insights. Support kept pushing new verification steps without releasing funds. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "exglobolex-review": [
+    {
+      "name": "Tariq Rossi",
+      "initials": "TR",
+      "country": "Norway",
+      "date": "2026-11-06",
+      "title": "Cannot move funds off the platform (Exglobolex)",
+      "text": "I funded through email support only after a card deposit. Domain on my notes: Exglobolex. Roughly just over £9,000 never cleared to my bank once they froze the larger request. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-07",
+        "text": "We’re sorry this happened. If you want a confidential review, contact us with the account timeline, payment method, and any chat or transfer references you still have.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Ava Olsen",
+      "initials": "AO",
+      "country": "Netherlands",
+      "date": "2026-09-21",
+      "title": "Manager verdween na groter verzoek (Exglobolex)",
+      "text": "Gestart op hun mobiele app na een zelfde-dag SEPA. Ik bewaar chat, bonnen en referentie-IDs. Domein in mijn notities: Exglobolex. Naar wie stuur ik tijdlijn en bewijs?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Callum Fischer",
+      "initials": "CF",
+      "country": "France",
+      "date": "2026-09-16",
+      "title": "Le gestionnaire a disparu (Exglobolex)",
+      "text": "Le support exigeait de nouvelles étapes sans libérer les fonds. Sur support e-mail seulement, tout paraissait normal après le SEPA le jour même. Présenté comme Exglobolex. Un examen confidentiel vaut-il encore la peine ?",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "bitsypay-h5-review": [
+    {
+      "name": "Chloe Whitmore",
+      "initials": "CW",
+      "country": "Germany",
+      "date": "2026-10-21",
+      "title": "Kein Zugriff auf meine Einlagen (h5.bitsypay)",
+      "text": "Zuerst wirkte ein Instagram-Formular normal nach meiner Apple-Pay-Einzahlung. Etwa $4,200 stecken fest, nachdem die Auszahlung blockiert wurde. (Bitsypay H5) Ist eine vertrauliche Prüfung noch sinnvoll?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-22",
+        "text": "Danke für Ihre Nachricht. Beschreiben Sie Einzahlung, gescheiterte Auszahlung und Ticket-IDs; wir gleichen das mit öffentlichen Quellen ab.",
+        "ctaLabel": "Kontakt für eine Beratung →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Lucia Rahman",
+      "initials": "LR",
+      "country": "Portugal",
+      "date": "2026-10-11",
+      "title": "Saque bloqueado após depósito (h5.bitsypay)",
+      "text": "No um desk no Telegram parecia normal depois do carregamento e-wallet. O gestor parou de responder quando pedi o saque. (Bitsypay H5) Ainda vale uma análise confidencial?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Lara Brennan",
+      "initials": "LB",
+      "country": "Brazil",
+      "date": "2026-07-25",
+      "title": "Conta congelada ao pedir retirada (h5.bitsypay)",
+      "text": "O gestor parou de responder quando pedi o saque. Comecei em a app móvel após um depósito Apple Pay. (Bitsypay H5) Ainda vale uma análise confidencial?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "allenai-review": [
+    {
+      "name": "Mia Popescu",
+      "initials": "MP",
+      "country": "France",
+      "date": "2026-11-06",
+      "title": "Compte gelé à la demande de sortie — $68,750 on allenai.com",
+      "text": "Début sur support e-mail seulement après un transfert crypto. Près de $68,750 n’ont jamais atteint ma banque une fois la demande majeure gelée. Présenté comme AllenAI. Y a-t-il une prochaine étape concrète ?",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-08",
+        "text": "Merci pour votre message. Précisez paiement, échec du retrait et IDs de ticket ; nous les comparerons aux sources publiques.",
+        "ctaLabel": "Contactez-nous pour une consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Tariq Okonkwo",
+      "initials": "TO",
+      "country": "France",
+      "date": "2026-10-10",
+      "title": "Paiement toujours bloqué (allenai.com)",
+      "text": "Sur support e-mail seulement, tout paraissait normal après le dépôt Apple Pay. Un examen confidentiel vaut-il encore la peine ? Un petit retrait test a marché une fois ; le vrai non. (AllenAI)",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Marcus Hayes",
+      "initials": "MH",
+      "country": "France",
+      "date": "2026-08-05",
+      "title": "Dépôt OK — sortie non · dépôt par carte",
+      "text": "J’ai déposé via un formulaire Instagram avec un dépôt par carte. Domaine dans mes notes : allenai.com. Un petit retrait test a marché une fois ; le vrai non. À qui envoyer le calendrier et les preuves ?",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "landmarkmarkets-review": [
+    {
+      "name": "Johan Watanabe",
+      "initials": "JW",
+      "country": "Romania",
+      "date": "2026-10-04",
+      "title": "Am capturi — fără retragere — £27,600 on landmarkmarkets.com",
+      "text": "Aproape £27,600 nu au ajuns în bancă când au înghețat cererea mai mare. Am depus prin platforma web cu un depunere cu card. (Landmark Markets) Care e următorul pas practic?",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-06",
+        "text": "Ne pare rău pentru retragerea blocată. Trimiteți date, sume și domeniul folosit — schițăm opțiuni în privat.",
+        "ctaLabel": "Contactați-ne pentru o consultație →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Noah Costa",
+      "initials": "NC",
+      "country": "Netherlands",
+      "date": "2026-08-18",
+      "title": "Storting wel — uitgang niet — landmarkmarkets.com",
+      "text": "Ik stortte via een Telegram-desk met een e-wallet-opwaardering. Opnames stopten; de chat herhaalde dezelfde checklist. (Landmark Markets) Naar wie stuur ik tijdlijn en bewijs?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Caroline Nowak",
+      "initials": "CN",
+      "country": "South Africa",
+      "date": "2026-08-07",
+      "title": "Urgent: funds stuck after “verification” · card deposit",
+      "text": "Followed instructions from the web platform and completed a card deposit. Domain on my notes: landmarkmarkets.com. Profile concerned: Landmark Markets. Support kept pushing new verification steps without releasing funds. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "alinea-invest-review": [
+    {
+      "name": "Jonas García",
+      "initials": "JG",
+      "country": "United Kingdom",
+      "date": "2026-09-27",
+      "title": "Balance shows, bank never receives (alinea-invest.com)",
+      "text": "I put money in via a crypto transfer on the web platform. Profile concerned: Alinea Invest. I am missing close to €6,450 that still sits on-screen while payouts fail. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-28",
+        "text": "We’re sorry this happened. If you want a confidential review, contact us with the account timeline, payment method, and any chat or transfer references you still have.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Elena Fernández",
+      "initials": "EF",
+      "country": "Chile",
+      "date": "2026-09-13",
+      "title": "Sigo sin el pago prometido · depósito con tarjeta",
+      "text": "Los retiros se detuvieron y el chat solo repetía la misma lista. Empecé en un chat de recuperación tras un depósito con tarjeta. Se presentó como Alinea Invest. ¿Hay un siguiente paso práctico?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Nils Schmidt",
+      "initials": "NS",
+      "country": "Italy",
+      "date": "2026-08-25",
+      "title": "Urgente: fondi bloccati in “verifica” · deposito con carta",
+      "text": "Su la piattaforma web sembrava regolare dopo il deposito con carta. Ha ancora senso un esame confidenziale? I prelievi si sono fermati; la chat ripeteva solo checklist. Si presentava come Alinea Invest.",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "minepays-review": [
+    {
+      "name": "Clara Schmidt",
+      "initials": "CS",
+      "country": "Austria",
+      "date": "2026-09-24",
+      "title": "Kein Zugriff auf meine Einlagen (minepays.org)",
+      "text": "Ich habe über ein Instagram-Formular mit einer Banküberweisung eingezahlt. Auf dem Dashboard stand Gewinn, aber etwa €37,500 wurden nicht freigegeben. In meinen Notizen: minepays.org. Ist eine vertrauliche Prüfung noch sinnvoll?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-27",
+        "text": "Es tut uns leid. Für eine vertrauliche Prüfung senden Sie Zeitablauf, Zahlungsweg und vorhandene Chat-/Transfernachweise.",
+        "ctaLabel": "Kontakt für eine Beratung →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Nadia Vo",
+      "initials": "NV",
+      "country": "Japan",
+      "date": "2026-09-09",
+      "title": "minepays.org: Urgent: funds stuck after “verification”",
+      "text": "A small test payout went through once; the real request never completed. Followed instructions from an Instagram lead form and completed a crypto transfer. I dealt with what presented as Minepays. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Noor Popescu",
+      "initials": "NP",
+      "country": "Japan",
+      "date": "2026-08-10",
+      "title": "Withdrawal stalled after deposit (minepays.org)",
+      "text": "Onboarded through a recovery chat and sent a wire in two tranches. Profile concerned: Minepays. A small test payout went through once; the real request never completed. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "investment-hub-review": [
+    {
+      "name": "Sofia Yamamoto",
+      "initials": "SY",
+      "country": "Romania",
+      "date": "2026-10-27",
+      "title": "£27,600 · Nu pot muta fondurile",
+      "text": "Pe un desk Telegram părea normal după transfer crypto. Aproximativ £27,600 sunt blocate după ce au oprit retragerea. Domeniul din notițe: investment-hub.com. Mai are sens o analiză confidențială?",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-30",
+        "text": "Ne pare rău. Pentru analiză confidențială, trimiteți calendarul, metoda de plată și referințe chat/transfer.",
+        "ctaLabel": "Contactați-ne pentru o consultație →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Hugo Fischer",
+      "initials": "HF",
+      "country": "Belgium",
+      "date": "2026-10-17",
+      "title": "Manager verdween na groter verzoek (investment-hub.com)",
+      "text": "Op een recovery-chat leek alles normaal na de crypto-transfer. Is er een concrete volgende stap? Een testopname lukte één keer; de echte niet. Domein in mijn notities: investment-hub.com.",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Thomas Whitmore",
+      "initials": "TW",
+      "country": "Colombia",
+      "date": "2026-08-03",
+      "title": "Bloqueo tras pedir transferencia (investment-hub.com)",
+      "text": "Todo parecía normal en un broker por llamada después del transferencia en dos tramos. Dominio en mis notas: investment-hub.com. Conservo chats, recibos e IDs de referencia. ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "groundfloor-review": [
+    {
+      "name": "Andre Cruz",
+      "initials": "AC",
+      "country": "Sweden",
+      "date": "2026-10-21",
+      "title": "Dashboard profits never reached my bank (groundfloor.com)",
+      "text": "Followed instructions from a Telegram desk and completed a e-wallet top-up. Can someone advise if a confidential review is still worth it? I am missing close to $4,200 that still sits on-screen while payouts fail. I dealt with what presented as Groundfloor.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-24",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Kenji Whitmore",
+      "initials": "KW",
+      "country": "Norway",
+      "date": "2026-09-29",
+      "title": "groundfloor.com: Support loop — no real release of funds",
+      "text": "Started with a USDT transfer; activity looked normal at first on a cold-call broker desk. Withdrawals then stalled and chat only recycled the same checklist. Domain on my notes: groundfloor.com. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Jonas Lindqvist",
+      "initials": "JL",
+      "country": "France",
+      "date": "2026-07-25",
+      "title": "Verrouillage après demande de virement (groundfloor.com)",
+      "text": "J’ai déposé via la plateforme web avec un transfert crypto. Présenté comme Groundfloor. Le support exigeait de nouvelles étapes sans libérer les fonds. Y a-t-il une prochaine étape concrète ?",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "willowwealth-review": [
+    {
+      "name": "Luis Murray",
+      "initials": "LM",
+      "country": "Portugal",
+      "date": "2026-10-03",
+      "title": "Pagamento ainda preso — $68,750 on willowwealth.com",
+      "text": "Quase $68,750 não chegaram ao banco quando congelaram o pedido maior. Depositei via a plataforma web com um transferência bancária. Domínio nas notas: willowwealth.com. Ainda vale uma análise confidencial?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-04",
+        "text": "Lamentamos o saque bloqueado. Partilhe datas, montantes e o domínio usado — podemos delinear opções em privado.",
+        "ctaLabel": "Contacte-nos para uma consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Zoe Rahman",
+      "initials": "ZR",
+      "country": "Portugal",
+      "date": "2026-09-18",
+      "title": "willowwealth.com: Conta congelada ao pedir retirada",
+      "text": "No a app móvel parecia normal depois do transferência bancária. O suporte pedia novas verificações sem libertar fundos. Domínio nas notas: willowwealth.com. Ainda vale uma análise confidencial?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Vera Almeida",
+      "initials": "VA",
+      "country": "Italy",
+      "date": "2026-08-18",
+      "title": "Blocco dopo la richiesta di bonifico (willowwealth.com)",
+      "text": "Ho versato tramite un form Instagram con un bonifico in due tranche. Era sotto il nome Willow Wealth. Un prelievo test è passato una volta; quello vero no. A chi mando cronologia e prove?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "premiumyields1-review": [
+    {
+      "name": "Pierre Berg",
+      "initials": "PB",
+      "country": "France",
+      "date": "2026-10-29",
+      "title": "Paiement toujours bloqué — €9,200 on premiumyields1.com",
+      "text": "Début sur leur application après un virement bancaire. À qui envoyer le calendrier et les preuves ? Environ €9,200 restent bloqués après le gel du retrait. (Premium Yields)",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-31",
+        "text": "Merci pour votre message. Précisez paiement, échec du retrait et IDs de ticket ; nous les comparerons aux sources publiques.",
+        "ctaLabel": "Contactez-nous pour une consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Giulia Fernández",
+      "initials": "GF",
+      "country": "Poland",
+      "date": "2026-10-05",
+      "title": "Wpłata OK — wypłata nie / premiumyields1.com",
+      "text": "Wpłaciłem przez tylko e-mail jako SEPA tego samego dnia. Support żądał kolejnych weryfikacji bez wypłaty. Szło pod nazwą Premium Yields. Do kogo wysłać harmonogram i dowody?",
+      "lang": "pl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Nina Fernández",
+      "initials": "NF",
+      "country": "Singapore",
+      "date": "2026-09-28",
+      "title": "Locked out after requesting a transfer — premiumyields1.com",
+      "text": "Every cash-out ticket closed with a delay story and no wire. Onboarded through the web platform and sent a crypto transfer. Profile concerned: Premium Yields. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "dreamsfx-review": [
+    {
+      "name": "Daniel Novak",
+      "initials": "DN",
+      "country": "Chile",
+      "date": "2026-10-27",
+      "title": "Soporte da largas sin liberar fondos (dreamsfx.net)",
+      "text": "Empecé en solo soporte por email tras un recarga de monedero. ¿Hay un siguiente paso práctico? Cerca de £5,400 no llegaron al banco cuando congelaron la solicitud mayor. Fue bajo el nombre Dreams FX.",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-28",
+        "text": "Lamentamos lo ocurrido. Para una revisión confidencial, envíe cronograma, forma de pago y referencias de chat o transferencias.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Elena Mendoza",
+      "initials": "EM",
+      "country": "Netherlands",
+      "date": "2026-09-29",
+      "title": "dreamsfx.net: Opname geblokkeerd na storting",
+      "text": "Ik stortte via een telefonische broker met een overschrijving in twee tranches. Opnames stopten; de chat herhaalde dezelfde checklist. (Dreams FX) Naar wie stuur ik tijdlijn en bewijs?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Felix Singh",
+      "initials": "FS",
+      "country": "Poland",
+      "date": "2026-08-30",
+      "title": "Wniosek o wypłatę zignorowany · transfer USDT",
+      "text": "Testowa wypłata przeszła raz; właściwa nie. Start na ich aplikację po transfer USDT. Domena w notatkach: dreamsfx.net. Jaki jest praktyczny kolejny krok?",
+      "lang": "pl",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "sparkwealths-review": [
+    {
+      "name": "Noah Hughes",
+      "initials": "NH",
+      "country": "France",
+      "date": "2026-09-29",
+      "title": "Retrait bloqué après dépôt — close to $50,000 on sparkwealths.com",
+      "text": "Sur un chat de récupération, tout paraissait normal après le dépôt par carte. Pouvez-vous regarder le dossier discrètement ? Près de close to $50,000 n’ont jamais atteint ma banque une fois la demande majeure gelée. C’était sous le nom Spark Wealths.",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-01",
+        "text": "Nous sommes désolés. Pour un examen confidentiel, envoyez calendrier, mode de paiement et références de chat ou virement.",
+        "ctaLabel": "Contactez-nous pour une consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Mia Rossi",
+      "initials": "MR",
+      "country": "Australia",
+      "date": "2026-09-03",
+      "title": "Withdrawal stalled after deposit (sparkwealths.com)",
+      "text": "They cited compliance holds that never resolved into a transfer. Started with a crypto transfer; activity looked normal at first on their mobile app. Profile concerned: Spark Wealths. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Ana Nguyen",
+      "initials": "AN",
+      "country": "United Kingdom",
+      "date": "2026-08-14",
+      "title": "Screenshots saved — still no payout — sparkwealths.com",
+      "text": "Onboarded through a recovery chat and sent a crypto transfer. Who should I contact with the timeline and proof I still have? A small test payout went through once; the real request never completed. Domain on my notes: sparkwealths.com. Profile concerned: Spark Wealths.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "orokuedge-review": [
+    {
+      "name": "Viktor Whitmore",
+      "initials": "VW",
+      "country": "Sweden",
+      "date": "2026-10-04",
+      "title": "orokuedge.com: Withdrawal stalled after deposit (€37,500)",
+      "text": "Started with a same-day SEPA; activity looked normal at first on an account manager on WhatsApp. Please say whether counsel can still look at this quietly. They showed green “profits,” then held back about €37,500 without explanation. Profile concerned: Oroku Edge.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-06",
+        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Isabella Olsen",
+      "initials": "IO",
+      "country": "Italy",
+      "date": "2026-08-28",
+      "title": "Richiesta di pagamento senza esito (orokuedge.com)",
+      "text": "Inizio su un form Instagram dopo un deposito Apple Pay. Il manager ha smesso di rispondere quando ho chiesto il prelievo. (Oroku Edge) Potete guardare il fascicolo in silenzio?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Sean Cohen",
+      "initials": "SC",
+      "country": "Singapore",
+      "date": "2026-08-11",
+      "title": "Support loop — no real release of funds (orokuedge.com)",
+      "text": "Onboarded through the web platform and sent a crypto transfer. Can someone advise if a confidential review is still worth it? They cited compliance holds that never resolved into a transfer. Profile concerned: Oroku Edge.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "justmarkets-review": [
+    {
+      "name": "Elena Chen",
+      "initials": "EC",
+      "country": "Poland",
+      "date": "2026-09-19",
+      "title": "justmarkets.eu: Testowa wypłata, potem cisza ($68,750)",
+      "text": "Na ich aplikację wyglądało to normalnie po SEPA tego samego dnia. Do kogo wysłać harmonogram i dowody? Blisko $68,750 nie trafiło do banku, gdy zamrożono większy wniosek. Szło pod nazwą JustMarkets.",
+      "lang": "pl",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-21",
+        "text": "Dziękujemy za wiadomość. Opiszcie wpłatę, nieudaną wypłatę i ID zgłoszeń; porównamy z publicznymi źródłami.",
+        "ctaLabel": "Skontaktuj się w sprawie konsultacji →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Hannah Hughes",
+      "initials": "HH",
+      "country": "Belgium",
+      "date": "2026-08-27",
+      "title": "Manager verdween na groter verzoek · e-wallet-opwaardering",
+      "text": "Op het webplatform leek alles normaal na de e-wallet-opwaardering. Dit was onder de naam JustMarkets. Support vroeg nieuwe stappen zonder fondsen vrij te geven. Heeft een vertrouwelijke beoordeling nog zin?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Mateo Johansson",
+      "initials": "MJ",
+      "country": "New Zealand",
+      "date": "2026-07-18",
+      "title": "Support loop — no real release of funds — justmarkets.eu",
+      "text": "Started with a crypto transfer; activity looked normal at first on an account manager on WhatsApp. I dealt with what presented as JustMarkets. Withdrawals then stalled and chat only recycled the same checklist. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "marketsall-review": [
+    {
+      "name": "Thomas Andersen",
+      "initials": "TA",
+      "country": "United Arab Emirates",
+      "date": "2026-10-04",
+      "title": "$18,600 · Urgent: funds stuck after “verification”",
+      "text": "Started with a USDT transfer; activity looked normal at first on a Telegram desk. Profile concerned: MarketsAll. They showed green “profits,” then held back about $18,600 without explanation. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-06",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Andre Santos",
+      "initials": "AS",
+      "country": "Sweden",
+      "date": "2026-09-03",
+      "title": "Withdrawal stalled after deposit / marketsall.com",
+      "text": "They cited compliance holds that never resolved into a transfer. Onboarded through email support only and sent a wire in two tranches. Profile concerned: MarketsAll. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Nils Baptiste",
+      "initials": "NB",
+      "country": "Spain",
+      "date": "2026-08-03",
+      "title": "Entró el depósito, no la salida / marketsall.com",
+      "text": "Aporté por solo soporte por email con un transferencia cripto. (MarketsAll) Los retiros se detuvieron y el chat solo repetía la misma lista. ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "minergpt-review": [
+    {
+      "name": "Ian Hayes",
+      "initials": "IH",
+      "country": "Sweden",
+      "date": "2026-09-30",
+      "title": "Account frozen when I asked for cash out (minergpt.digital)",
+      "text": "I put money in via a same-day SEPA on an Instagram lead form. Can someone advise if a confidential review is still worth it? About £19,800 is still stuck after they blocked the withdrawal. Profile concerned: MinerGPT.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-03",
+        "text": "We’re sorry this happened. If you want a confidential review, contact us with the account timeline, payment method, and any chat or transfer references you still have.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Malik Fernández",
+      "initials": "MF",
+      "country": "Turkey",
+      "date": "2026-08-30",
+      "title": "Fonları çıkaramıyorum · USDT transferi",
+      "text": "USDT transferi sonrası web platformu ile başladım. Destek fon bırakmadan yeni doğrulama istedi. Notlarımdaki alan adı: minergpt.digital. Dosyaya sessizce bakılabilir mi?",
+      "lang": "tr",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Bruno Rahman",
+      "initials": "BR",
+      "country": "United Arab Emirates",
+      "date": "2026-08-05",
+      "title": "Dashboard profits never reached my bank · card deposit",
+      "text": "I put money in via a card deposit on the web platform. Profile concerned: MinerGPT. They cited compliance holds that never resolved into a transfer. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "binarymate-review": [
+    {
+      "name": "Noor Dubois",
+      "initials": "ND",
+      "country": "Italy",
+      "date": "2026-10-30",
+      "title": "Conto congelato alla richiesta di cash-out (binarymate.com)",
+      "text": "Ho versato tramite una chat di recovery con un bonifico. (Binary Mate) Circa £2,950 restano bloccati dopo il blocco del prelievo. Ha ancora senso un esame confidenziale?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-01",
+        "text": "Ci dispiace. Per un esame confidenziale, invii cronologia, metodo di pagamento e riferimenti di chat o bonifici.",
+        "ctaLabel": "Contattaci per una consulenza →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Hugo Santos",
+      "initials": "HS",
+      "country": "Austria",
+      "date": "2026-10-18",
+      "title": "Gesperrt nach Transferanfrage — binarymate.com",
+      "text": "Zuerst wirkte nur E-Mail-Support normal nach meiner USDT-Transfer. Danach blieben Auszahlungen stehen; der Chat wiederholte nur Checklisten. Es lief unter dem Namen Binary Mate. Kann jemand still prüfen, ob noch etwas geht?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Kira Rahman",
+      "initials": "KR",
+      "country": "Portugal",
+      "date": "2026-08-14",
+      "title": "Urgente: fundos presos na “verificação” (binarymate.com)",
+      "text": "Guardei chats, recibos e IDs de referência. Comecei em a app móvel após um transferência crypto. Foi sob o nome Binary Mate. A quem envio o cronograma e as provas?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "tradetribexchange-review": [
+    {
+      "name": "Ravi Schmidt",
+      "initials": "RS",
+      "country": "Turkey",
+      "date": "2026-10-02",
+      "title": "Destek oyalıyor, para yok — $31,200 on tradetribexchange.com",
+      "text": "USDT transferi sonrası recovery sohbeti ile başladım. Dosyaya sessizce bakılabilir mi? Panel kâr gösteriyordu ama $31,200 açıklama yapılmadan tutuldu. (Trade Trib Exchange)",
+      "lang": "tr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-05",
+        "text": "Engellenen çekim için üzgünüz. Tarih, tutar ve kullanılan alan adını paylaşın — seçenekleri gizlice özetleriz.",
+        "ctaLabel": "Görüşme için bize ulaşın →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Owen Watanabe",
+      "initials": "OW",
+      "country": "United Kingdom",
+      "date": "2026-09-04",
+      "title": "Account frozen when I asked for cash out (tradetribexchange.com)",
+      "text": "Started with a bank wire; activity looked normal at first on a Telegram desk. Who should I contact with the timeline and proof I still have? Support kept pushing new verification steps without releasing funds. Profile concerned: Trade Trib Exchange.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Marcus Sullivan",
+      "initials": "MS",
+      "country": "Mexico",
+      "date": "2026-07-22",
+      "title": "tradetribexchange.com: Saldo visible, banco en cero",
+      "text": "Empecé en un gestor por WhatsApp tras un transferencia en dos tramos. (Trade Trib Exchange) Soporte pedía más verificación sin liberar fondos. ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "haloinvesting-review": [
+    {
+      "name": "Tariq Fernández",
+      "initials": "TF",
+      "country": "South Africa",
+      "date": "2026-10-14",
+      "title": "£12,300 · Support loop — no real release of funds",
+      "text": "Roughly £12,300 never cleared to my bank once they froze the larger request. Started with a wire in two tranches; activity looked normal at first on an account manager on WhatsApp. Profile concerned: Halo Investing. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-17",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Chloe Olsen",
+      "initials": "CO",
+      "country": "Singapore",
+      "date": "2026-10-01",
+      "title": "Urgent: funds stuck after “verification” / haloinvesting.com",
+      "text": "I still have the chat log, receipts, and wallet/reference IDs. Followed instructions from a Telegram desk and completed a wire in two tranches. Profile concerned: Halo Investing. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Noah Okonkwo",
+      "initials": "NO",
+      "country": "Norway",
+      "date": "2026-09-04",
+      "title": "Support loop — no real release of funds · Apple Pay deposit",
+      "text": "Every cash-out ticket closed with a delay story and no wire. Onboarded through a recovery chat and sent a Apple Pay deposit. Domain on my notes: haloinvesting.com. Profile concerned: Halo Investing. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "starnavigationcapital-review": [
+    {
+      "name": "Diego García",
+      "initials": "DG",
+      "country": "Turkey",
+      "date": "2026-09-19",
+      "title": "starnavigationcapital.com: Test çekimi oldu, sonra yok (roughly €20k)",
+      "text": "iki dilimde havale sonrası Instagram formu ile başladım. Çekim engellenince yaklaşık roughly €20k takılı kaldı. Notlarımdaki alan adı: starnavigationcapital.com. Gizli inceleme hâlâ mantıklı mı?",
+      "lang": "tr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-22",
+        "text": "Üzüldük. Gizli inceleme için zaman çizelgesi, ödeme yöntemi ve sohbet/transfer kayıtlarını gönderin.",
+        "ctaLabel": "Görüşme için bize ulaşın →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Caroline Kowalski",
+      "initials": "CK",
+      "country": "Brazil",
+      "date": "2026-09-06",
+      "title": "Não consigo tirar os fundos · SEPA no mesmo dia",
+      "text": "Guardei chats, recibos e IDs de referência. Comecei em só suporte por e-mail após um SEPA no mesmo dia. Foi sob o nome Star Navigation Capital. A quem envio o cronograma e as provas?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Callum Silva",
+      "initials": "CS",
+      "country": "Austria",
+      "date": "2026-08-10",
+      "title": "Gesperrt nach Transferanfrage · USDT-Transfer",
+      "text": "Einstieg über nur E-Mail-Support, Zahlung per USDT-Transfer. (Star Navigation Capital) Support verlangte neue Schritte, ohne Geld freizugeben. Ist eine vertrauliche Prüfung noch sinnvoll?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "traderdelta-review": [
+    {
+      "name": "Mia Rahman",
+      "initials": "MR",
+      "country": "New Zealand",
+      "date": "2026-10-04",
+      "title": "Balance shows, bank never receives — $18,600 on traderdelta.com",
+      "text": "Onboarded through their mobile app and sent a crypto transfer. Profile concerned: Trader Delta. About $18,600 is still stuck after they blocked the withdrawal. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-06",
+        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Sofia Ibrahim",
+      "initials": "SI",
+      "country": "Chile",
+      "date": "2026-09-18",
+      "title": "traderdelta.com: El gestor desapareció",
+      "text": "Un retiro de prueba salió una vez; el real no. Todo parecía normal en un gestor por WhatsApp después del transferencia bancaria. Dominio en mis notas: traderdelta.com. ¿Pueden mirar el caso en silencio?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Sofia Johansson",
+      "initials": "SJ",
+      "country": "United Arab Emirates",
+      "date": "2026-08-26",
+      "title": "Withdrawal stalled after deposit · same-day SEPA",
+      "text": "I put money in via a same-day SEPA on email support only. I still have the chat log, receipts, and wallet/reference IDs. Profile concerned: Trader Delta. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "ranieriasset-review": [
+    {
+      "name": "Mateo Berg",
+      "initials": "MB",
+      "country": "Portugal",
+      "date": "2026-10-07",
+      "title": "ranieriasset.com: Conta congelada ao pedir retirada (just over £9,000)",
+      "text": "Depositei via um broker por telefone com um depósito Apple Pay. Podem olhar o caso em silêncio? Mostravam lucros, mas reteve cerca de just over £9,000 sem explicação. Foi sob o nome Ranieri Asset.",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-10",
+        "text": "Obrigado pela mensagem. Descreva o pagamento, a falha do saque e IDs de ticket; comparamos com o registo público.",
+        "ctaLabel": "Contacte-nos para uma consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Helena Andersen",
+      "initials": "HA",
+      "country": "New Zealand",
+      "date": "2026-09-01",
+      "title": "Withdrawal stalled after deposit — ranieriasset.com",
+      "text": "Withdrawals then stalled and chat only recycled the same checklist. Started with a USDT transfer; activity looked normal at first on their mobile app. Profile concerned: Ranieri Asset. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Nils Moreau",
+      "initials": "NM",
+      "country": "Colombia",
+      "date": "2026-08-14",
+      "title": "No puedo sacar el dinero — ranieriasset.com",
+      "text": "Aporté por un chat de recuperación con un transferencia cripto. ¿A quién envío el cronograma y las pruebas? Conservo chats, recibos e IDs de referencia. (Ranieri Asset)",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "zidfinanceglobal-review": [
+    {
+      "name": "Noor Popescu",
+      "initials": "NP",
+      "country": "Japan",
+      "date": "2026-10-05",
+      "title": "zidfinanceglobal.com: Screenshots saved — still no payout (about $15k)",
+      "text": "Started with a crypto transfer; activity looked normal at first on an Instagram lead form. The open balance near about $15k will not move at all. I dealt with what presented as Zid Finance Global. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-07",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Malik Mendoza",
+      "initials": "MM",
+      "country": "Poland",
+      "date": "2026-09-07",
+      "title": "Wniosek o wypłatę zignorowany — zidfinanceglobal.com",
+      "text": "Start na opiekuna na WhatsApp po SEPA tego samego dnia. Czy można to przejrzeć po cichu? Opiekun zamilkł, gdy poprosiłem o wypłatę. (Zid Finance Global)",
+      "lang": "pl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Helena Hughes",
+      "initials": "HH",
+      "country": "Australia",
+      "date": "2026-09-05",
+      "title": "Balance shows, bank never receives / zidfinanceglobal.com",
+      "text": "Started with a crypto transfer; activity looked normal at first on a cold-call broker desk. They cited compliance holds that never resolved into a transfer. Profile concerned: Zid Finance Global. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "infinitymetrix-review": [
+    {
+      "name": "Sofia Iqbal",
+      "initials": "SI",
+      "country": "United Kingdom",
+      "date": "2026-09-23",
+      "title": "Account frozen when I asked for cash out (infinitymetrix.com)",
+      "text": "Roughly nearly €12,000 never cleared to my bank once they froze the larger request. I put money in via a USDT transfer on the web platform. Domain on my notes: infinitymetrix.com. Profile concerned: Infinity Metrix. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-24",
+        "text": "We understand how disruptive a frozen balance is. Contact us with screenshots and a short chronology if you want next-step advice without obligation.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Giulia Nowak",
+      "initials": "GN",
+      "country": "Austria",
+      "date": "2026-08-18",
+      "title": "infinitymetrix.com: Nachweise da — trotzdem keine Auszahlung",
+      "text": "Eine kleine Testauszahlung klappte einmal — die echte nicht. Einstieg über ein Instagram-Formular, Zahlung per SEPA am selben Tag. Es lief unter dem Namen Infinity Metrix. Wen soll ich mit Zeitablauf und Nachweisen kontaktieren?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Luis Hayes",
+      "initials": "LH",
+      "country": "Japan",
+      "date": "2026-06-21",
+      "title": "Urgent: funds stuck after “verification” · bank wire",
+      "text": "Onboarded through an account manager on WhatsApp and sent a bank wire. They cited compliance holds that never resolved into a transfer. Domain on my notes: infinitymetrix.com. Profile concerned: Infinity Metrix. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "saytrader-review": [
+    {
+      "name": "Rafael Berg",
+      "initials": "RB",
+      "country": "Italy",
+      "date": "2026-09-25",
+      "title": "saytrader.com: Prelievo test ok, poi nulla ($42,500)",
+      "text": "Inizio su un desk Telegram dopo un deposito Apple Pay. C’è un passo successivo concreto? Mostravano profitti, ma trattenevano circa $42,500 senza spiegazioni. Era sotto il nome Say Trader.",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-27",
+        "text": "Ci dispiace. Per un esame confidenziale, invii cronologia, metodo di pagamento e riferimenti di chat o bonifici.",
+        "ctaLabel": "Contattaci per una consulenza →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Yara Silva",
+      "initials": "YS",
+      "country": "Romania",
+      "date": "2026-08-23",
+      "title": "Plata încă blocată (saytrader.com)",
+      "text": "Am depus prin doar suport email cu un depunere Apple Pay. Am chat, chitanțe și ID-uri de referință. (Say Trader) Cui trimit calendarul și dovezile?",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Ravi Novak",
+      "initials": "RN",
+      "country": "Colombia",
+      "date": "2026-08-10",
+      "title": "Bloqueo tras pedir transferencia / saytrader.com",
+      "text": "Aporté por un gestor por WhatsApp con un transferencia en dos tramos. Fue bajo el nombre Say Trader. Los retiros se detuvieron y el chat solo repetía la misma lista. ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "balancerpro-review": [
+    {
+      "name": "Daniel Popescu",
+      "initials": "DP",
+      "country": "Singapore",
+      "date": "2026-09-16",
+      "title": "balancerpro.com: Cannot move funds off the platform ($18,600)",
+      "text": "I put money in via a card deposit on a cold-call broker desk. Who should I contact with the timeline and proof I still have? They showed green “profits,” then held back about $18,600 without explanation. Profile concerned: Balancer Pro.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-17",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Omar Berg",
+      "initials": "OB",
+      "country": "South Africa",
+      "date": "2026-08-17",
+      "title": "balancerpro.com: Account frozen when I asked for cash out",
+      "text": "Onboarded through a cold-call broker desk and sent a e-wallet top-up. They cited compliance holds that never resolved into a transfer. I dealt with what presented as Balancer Pro. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Olivia Brennan",
+      "initials": "OB",
+      "country": "Norway",
+      "date": "2026-07-04",
+      "title": "balancerpro.com: Manager vanished after larger request",
+      "text": "A small test payout went through once; the real request never completed. Onboarded through a recovery chat and sent a card deposit. Domain on my notes: balancerpro.com. Profile concerned: Balancer Pro. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "morris-capitals-review": [
+    {
+      "name": "Bruno Watanabe",
+      "initials": "BW",
+      "country": "Portugal",
+      "date": "2026-10-27",
+      "title": "$7,850 · Prints salvos — sem saque",
+      "text": "No um chat de recovery parecia normal depois do transferência crypto. (Morris Capitals) Mostravam lucros, mas reteve cerca de $7,850 sem explicação. Há um próximo passo prático?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-29",
+        "text": "Obrigado pela mensagem. Descreva o pagamento, a falha do saque e IDs de ticket; comparamos com o registo público.",
+        "ctaLabel": "Contacte-nos para uma consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Giulia Yamamoto",
+      "initials": "GY",
+      "country": "Germany",
+      "date": "2026-10-11",
+      "title": "Auszahlung weiter blockiert — morris-capitals.com",
+      "text": "Eine kleine Testauszahlung klappte einmal — die echte nicht. Zuerst wirkte einen Telefonvertrieb normal nach meiner Krypto-Transfer. Aufgetreten als Morris Capitals. Wen soll ich mit Zeitablauf und Nachweisen kontaktieren?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Lucia Okafor",
+      "initials": "LO",
+      "country": "Colombia",
+      "date": "2026-09-02",
+      "title": "Tengo capturas — sin cobro (morris-capitals.com)",
+      "text": "Los retiros se detuvieron y el chat solo repetía la misma lista. Todo parecía normal en un broker por llamada después del recarga de monedero. (Morris Capitals) ¿Pueden mirar el caso en silencio?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "exivara24-review": [
+    {
+      "name": "Petra Costa",
+      "initials": "PC",
+      "country": "Canada",
+      "date": "2026-10-10",
+      "title": "Locked out after requesting a transfer (exivara24.com)",
+      "text": "I funded through a cold-call broker desk after a card deposit. Roughly €6,450 never cleared to my bank once they froze the larger request. Domain on my notes: exivara24.com. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-11",
+        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Sean Mendoza",
+      "initials": "SM",
+      "country": "Mexico",
+      "date": "2026-09-06",
+      "title": "Urgente: fondos atrapados en “verificación” / exivara24.com",
+      "text": "Empecé en la plataforma web tras un transferencia en dos tramos. ¿Conviene aún una revisión confidencial? Soporte pedía más verificación sin liberar fondos. Se presentó como Exivara24.",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Yusuf Yamamoto",
+      "initials": "YY",
+      "country": "Netherlands",
+      "date": "2026-08-27",
+      "title": "Testopname werkte, daarna niets (exivara24.com)",
+      "text": "Ik stortte via het webplatform met een e-wallet-opwaardering. (Exivara24) Opnames stopten; de chat herhaalde dezelfde checklist. Is er een concrete volgende stap?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "onencore-review": [
+    {
+      "name": "Vera Lindqvist",
+      "initials": "VL",
+      "country": "Netherlands",
+      "date": "2026-09-21",
+      "title": "Winst alleen op het dashboard (onencore.com)",
+      "text": "Ongeveer roughly €20k zit vast nadat de opname werd geblokkeerd. Gestart op het webplatform na een kaartstorting. (Onencore) Kunnen jullie dit stil bekijken?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-22",
+        "text": "Vervelend dat de opname vastzit. Deel data, bedragen en het gebruikte domein — we schetsen stil opties.",
+        "ctaLabel": "Neem contact op voor een consult →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Omar Fischer",
+      "initials": "OF",
+      "country": "Brazil",
+      "date": "2026-08-21",
+      "title": "Depósito entrou — saída não · depósito com cartão",
+      "text": "Comecei em um broker por telefone após um depósito com cartão. Ainda vale uma análise confidencial? O suporte pedia novas verificações sem libertar fundos. Apresentava-se como Onencore.",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Ravi Sullivan",
+      "initials": "RS",
+      "country": "Belgium",
+      "date": "2026-07-14",
+      "title": "Urgent: geld vast in “verificatie” — onencore.com",
+      "text": "Op een WhatsApp-manager leek alles normaal na de crypto-transfer. Een testopname lukte één keer; de echte niet. (Onencore) Heeft een vertrouwelijke beoordeling nog zin?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "tradedirect24-review": [
+    {
+      "name": "Kenji Murray",
+      "initials": "KM",
+      "country": "Romania",
+      "date": "2026-09-30",
+      "title": "tradedirect24.com: Cerere de retragere ignorată (€14,700)",
+      "text": "Pe aplicația mobilă părea normal după transfer bancar. Care e următorul pas practic? Arătau profituri, dar au reținut circa €14,700 fără explicații. A fost sub numele Trade Direct 24.",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-03",
+        "text": "Ne pare rău pentru retragerea blocată. Trimiteți date, sume și domeniul folosit — schițăm opțiuni în privat.",
+        "ctaLabel": "Contactați-ne pentru o consultație →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Malik Murray",
+      "initials": "MM",
+      "country": "Netherlands",
+      "date": "2026-08-30",
+      "title": "tradedirect24.com: Manager verdween na groter verzoek",
+      "text": "De manager reageerde niet meer toen ik om opname vroeg. Gestart op het webplatform na een USDT-transfer. Dit was onder de naam Trade Direct 24. Naar wie stuur ik tijdlijn en bewijs?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Mia Vogel",
+      "initials": "MV",
+      "country": "Norway",
+      "date": "2026-06-24",
+      "title": "Manager vanished after larger request (tradedirect24.com)",
+      "text": "Followed instructions from email support only and completed a USDT transfer. Can someone advise if a confidential review is still worth it? The manager stopped answering after I asked to withdraw. Profile concerned: Trade Direct 24.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "bitcastle-review": [
+    {
+      "name": "Olivia Mendoza",
+      "initials": "OM",
+      "country": "Turkey",
+      "date": "2026-10-21",
+      "title": "Çekim talebi yanıtsız kaldı (bitcastle.io)",
+      "text": "yalnızca e-posta destek üzerinden e-cüzdan yükleme ile yatırdım. Notlarımdaki alan adı: bitcastle.io. Çekim engellenince yaklaşık $18,600 takılı kaldı. Dosyaya sessizce bakılabilir mi?",
+      "lang": "tr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-23",
+        "text": "Yazınız için teşekkürler. Yatırım, başarısız çekim ve ticket ID’lerini anlatın; kamu kaydıyla karşılaştırırız.",
+        "ctaLabel": "Görüşme için bize ulaşın →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Lucas Cruz",
+      "initials": "LC",
+      "country": "Sweden",
+      "date": "2026-09-16",
+      "title": "Screenshots saved — still no payout / bitcastle.io",
+      "text": "Started with a same-day SEPA; activity looked normal at first on the web platform. Domain on my notes: bitcastle.io. Withdrawals then stalled and chat only recycled the same checklist. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Diego Cohen",
+      "initials": "DC",
+      "country": "France",
+      "date": "2026-09-01",
+      "title": "Solde affiché, banque vide — bitcastle.io",
+      "text": "Le support exigeait de nouvelles étapes sans libérer les fonds. Sur leur application, tout paraissait normal après le virement en deux tranches. C’était sous le nom BitCastle. À qui envoyer le calendrier et les preuves ?",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "capitalsystematic-review": [
+    {
+      "name": "Kira Mendoza",
+      "initials": "KM",
+      "country": "Colombia",
+      "date": "2026-09-26",
+      "title": "Retiro de prueba, luego silencio (capitalsystematic.org)",
+      "text": "Empecé en un formulario de Instagram tras un transferencia en dos tramos. Unos roughly €20k siguen bloqueados tras congelar el retiro. Fue bajo el nombre Capital Systematic. ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-27",
+        "text": "Lamentamos lo ocurrido. Para una revisión confidencial, envíe cronograma, forma de pago y referencias de chat o transferencias.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Nadia Kaya",
+      "initials": "NK",
+      "country": "Italy",
+      "date": "2026-08-10",
+      "title": "Blocco dopo la richiesta di bonifico / capitalsystematic.org",
+      "text": "Ho versato tramite un broker telefonico con un bonifico in due tranche. I prelievi si sono fermati; la chat ripeteva solo checklist. Era sotto il nome Capital Systematic. Ha ancora senso un esame confidenziale?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Olivia Diaz",
+      "initials": "OD",
+      "country": "Norway",
+      "date": "2026-07-01",
+      "title": "Payout request went nowhere — capitalsystematic.org",
+      "text": "I put money in via a same-day SEPA on an account manager on WhatsApp. Domain on my notes: capitalsystematic.org. Profile concerned: Capital Systematic. They cited compliance holds that never resolved into a transfer. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "servelius-review": [
+    {
+      "name": "Noah Fernández",
+      "initials": "NF",
+      "country": "Mexico",
+      "date": "2026-10-04",
+      "title": "$11,400 · Urgente: fondos atrapados en “verificación”",
+      "text": "Todo parecía normal en un gestor por WhatsApp después del transferencia en dos tramos. Mostraban beneficios, pero retuvieron cerca de $11,400 sin explicación. Fue bajo el nombre Servelius. ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-06",
+        "text": "Lamentamos lo ocurrido. Para una revisión confidencial, envíe cronograma, forma de pago y referencias de chat o transferencias.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Nadia Almeida",
+      "initials": "NA",
+      "country": "Norway",
+      "date": "2026-09-12",
+      "title": "Support loop — no real release of funds (servelius.com)",
+      "text": "Support kept pushing new verification steps without releasing funds. I funded through the web platform after a crypto transfer. Profile concerned: Servelius. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Diego Sullivan",
+      "initials": "DS",
+      "country": "Norway",
+      "date": "2026-07-13",
+      "title": "Still chasing a blocked payout / servelius.com",
+      "text": "I funded through a Telegram desk after a card deposit. This was under the Servelius name. The manager stopped answering after I asked to withdraw. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "aitrade24-review": [
+    {
+      "name": "Elena Chen",
+      "initials": "EC",
+      "country": "Brazil",
+      "date": "2026-10-03",
+      "title": "aitrade24.com: Lucros só no painel ($23,900)",
+      "text": "Depositei via a plataforma web com um transferência em duas tranches. Há um próximo passo prático? Cerca de $23,900 continuam presos depois de bloquearem o saque. Foi sob o nome AI Trade 24.",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-05",
+        "text": "Lamentamos o saque bloqueado. Partilhe datas, montantes e o domínio usado — podemos delinear opções em privado.",
+        "ctaLabel": "Contacte-nos para uma consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Rafael Hayes",
+      "initials": "RH",
+      "country": "Ireland",
+      "date": "2026-08-21",
+      "title": "Balance shows, bank never receives (aitrade24.com)",
+      "text": "Onboarded through the web platform and sent a USDT transfer. Every cash-out ticket closed with a delay story and no wire. The site I used was tied to AI Trade 24. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Luis Petrov",
+      "initials": "LP",
+      "country": "Germany",
+      "date": "2026-08-11",
+      "title": "Nachweise da — trotzdem keine Auszahlung (aitrade24.com)",
+      "text": "Zuerst wirkte einen Telegram-Desk normal nach meiner Krypto-Transfer. Support verlangte neue Schritte, ohne Geld freizugeben. (AI Trade 24) Ist eine vertrauliche Prüfung noch sinnvoll?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "thetoroglobal-review": [
+    {
+      "name": "Sean Keller",
+      "initials": "SK",
+      "country": "Canada",
+      "date": "2026-10-15",
+      "title": "Urgent: funds stuck after “verification” — €6,450 on thetoroglobal.com",
+      "text": "I put money in via a same-day SEPA on the web platform. About €6,450 is still stuck after they blocked the withdrawal. Profile concerned: The Toro Global. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-17",
+        "text": "We understand how disruptive a frozen balance is. Contact us with screenshots and a short chronology if you want next-step advice without obligation.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Giulia Vogel",
+      "initials": "GV",
+      "country": "Romania",
+      "date": "2026-09-23",
+      "title": "Am capturi — fără retragere · transfer USDT",
+      "text": "Am depus prin aplicația mobilă cu un transfer USDT. (The Toro Global) Retragerile s-au oprit; chatul repeta aceeași listă. Mai are sens o analiză confidențială?",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Irina Okonkwo",
+      "initials": "IO",
+      "country": "France",
+      "date": "2026-08-31",
+      "title": "Preuves gardées — pas de retrait — thetoroglobal.com",
+      "text": "J’ai conservé chats, reçus et références. Sur leur application, tout paraissait normal après le dépôt par carte. Domaine dans mes notes : thetoroglobal.com. Un examen confidentiel vaut-il encore la peine ?",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "duskmarkettrade-review": [
+    {
+      "name": "Camille Cruz",
+      "initials": "CC",
+      "country": "Germany",
+      "date": "2026-10-28",
+      "title": "about $15k · Auszahlung weiter blockiert",
+      "text": "Ich habe über die Mobile-App mit einer Apple-Pay-Einzahlung eingezahlt. Gibt es einen sinnvollen nächsten Schritt? Etwa about $15k stecken fest, nachdem die Auszahlung blockiert wurde. (Dusk Market Trade)",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-29",
+        "text": "Es tut uns leid. Für eine vertrauliche Prüfung senden Sie Zeitablauf, Zahlungsweg und vorhandene Chat-/Transfernachweise.",
+        "ctaLabel": "Kontakt für eine Beratung →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Petra Okafor",
+      "initials": "PO",
+      "country": "Sweden",
+      "date": "2026-10-06",
+      "title": "duskmarkettrade.com: Test withdrawal worked once, then nothing",
+      "text": "I put money in via a crypto transfer on an account manager on WhatsApp. They cited compliance holds that never resolved into a transfer. This was under the Dusk Market Trade name. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Yara Pretorius",
+      "initials": "YP",
+      "country": "South Africa",
+      "date": "2026-08-02",
+      "title": "Account frozen when I asked for cash out — duskmarkettrade.com",
+      "text": "Started with a wire in two tranches; activity looked normal at first on the web platform. They cited compliance holds that never resolved into a transfer. Domain on my notes: duskmarkettrade.com. Profile concerned: Dusk Market Trade. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "lesrouleaux-review": [
+    {
+      "name": "Irina Müller",
+      "initials": "IM",
+      "country": "Netherlands",
+      "date": "2026-09-27",
+      "title": "$42,500 · Winst alleen op het dashboard",
+      "text": "Bijna $42,500 bereikte mijn bank niet toen het grotere verzoek bevroor. Gestart op een recovery-chat na een crypto-transfer. Gepresenteerd als Les Rouleaux. Naar wie stuur ik tijdlijn en bewijs?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-28",
+        "text": "Vervelend dat de opname vastzit. Deel data, bedragen en het gebruikte domein — we schetsen stil opties.",
+        "ctaLabel": "Neem contact op voor een consult →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Erik Romano",
+      "initials": "ER",
+      "country": "Netherlands",
+      "date": "2026-08-12",
+      "title": "Opnameverzoek genegeerd (lesrouleaux.com)",
+      "text": "Op een WhatsApp-manager leek alles normaal na de overschrijving in twee tranches. Dit was onder de naam Les Rouleaux. Een testopname lukte één keer; de echte niet. Naar wie stuur ik tijdlijn en bewijs?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Aisha Romano",
+      "initials": "AR",
+      "country": "Italy",
+      "date": "2026-08-11",
+      "title": "Il manager è sparito (lesrouleaux.com)",
+      "text": "Su un desk Telegram sembrava regolare dopo il transfer USDT. Potete guardare il fascicolo in silenzio? Ho chat, ricevute e ID di riferimento. Si presentava come Les Rouleaux.",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "spreadex4-review": [
+    {
+      "name": "Sara Romano",
+      "initials": "SR",
+      "country": "Norway",
+      "date": "2026-10-27",
+      "title": "spreadex4.com: Manager vanished after larger request ($18,600)",
+      "text": "I funded through the web platform after a wire in two tranches. The site I used was tied to Spreadex4. I am missing close to $18,600 that still sits on-screen while payouts fail. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-29",
+        "text": "We’re sorry this happened. If you want a confidential review, contact us with the account timeline, payment method, and any chat or transfer references you still have.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Lara Yamamoto",
+      "initials": "LY",
+      "country": "Norway",
+      "date": "2026-10-21",
+      "title": "Account frozen when I asked for cash out (spreadex4.com)",
+      "text": "A small test payout went through once; the real request never completed. Onboarded through the web platform and sent a crypto transfer. Domain on my notes: spreadex4.com. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Diego Park",
+      "initials": "DP",
+      "country": "Portugal",
+      "date": "2026-09-21",
+      "title": "Lucros só no painel / spreadex4.com",
+      "text": "Comecei em um desk no Telegram após um SEPA no mesmo dia. (Spreadex4) O gestor parou de responder quando pedi o saque. A quem envio o cronograma e as provas?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "gsimarkets-review": [
+    {
+      "name": "Ines Silva",
+      "initials": "IS",
+      "country": "New Zealand",
+      "date": "2026-10-13",
+      "title": "Test withdrawal worked once, then nothing — $91,000 on gsimarkets.com",
+      "text": "Started with a Apple Pay deposit; activity looked normal at first on a recovery chat. I am missing close to $91,000 that still sits on-screen while payouts fail. Domain on my notes: gsimarkets.com. Profile concerned: GSI Markets. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-16",
+        "text": "We’re sorry this happened. If you want a confidential review, contact us with the account timeline, payment method, and any chat or transfer references you still have.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Bruno Kowalski",
+      "initials": "BK",
+      "country": "South Africa",
+      "date": "2026-09-16",
+      "title": "Withdrawal stalled after deposit · crypto transfer",
+      "text": "Onboarded through a Telegram desk and sent a crypto transfer. Can someone advise if a confidential review is still worth it? Every cash-out ticket closed with a delay story and no wire. This was under the GSI Markets name.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Ana Cruz",
+      "initials": "AC",
+      "country": "United Arab Emirates",
+      "date": "2026-08-18",
+      "title": "Cannot move funds off the platform — gsimarkets.com",
+      "text": "Onboarded through a cold-call broker desk and sent a crypto transfer. This was under the GSI Markets name. Every cash-out ticket closed with a delay story and no wire. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "coin-birds-review": [
+    {
+      "name": "Hans Kaya",
+      "initials": "HK",
+      "country": "Spain",
+      "date": "2026-10-17",
+      "title": "Soporte da largas sin liberar fondos (coin-birds.com)",
+      "text": "Cerca de roughly €20k no llegaron al banco cuando congelaron la solicitud mayor. Empecé en solo soporte por email tras un recarga de monedero. (Coin Birds) ¿Conviene aún una revisión confidencial?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-19",
+        "text": "Lamentamos lo ocurrido. Para una revisión confidencial, envíe cronograma, forma de pago y referencias de chat o transferencias.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Kira Romano",
+      "initials": "KR",
+      "country": "Singapore",
+      "date": "2026-09-17",
+      "title": "Dashboard profits never reached my bank / coin-birds.com",
+      "text": "They cited compliance holds that never resolved into a transfer. Followed instructions from a Telegram desk and completed a bank wire. This was under the Coin Birds name. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Marta Petrov",
+      "initials": "MP",
+      "country": "Canada",
+      "date": "2026-08-17",
+      "title": "Support loop — no real release of funds (coin-birds.com)",
+      "text": "I put money in via a bank wire on email support only. Who should I contact with the timeline and proof I still have? A small test payout went through once; the real request never completed. Profile concerned: Coin Birds.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "adbit-review": [
+    {
+      "name": "Ava Berg",
+      "initials": "AB",
+      "country": "South Africa",
+      "date": "2026-09-21",
+      "title": "Still chasing a blocked payout — €14,700 on adbit.pro",
+      "text": "The open balance near €14,700 will not move at all. I funded through a recovery chat after a e-wallet top-up. Profile concerned: Adbit. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-24",
+        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Liam Bailey",
+      "initials": "LB",
+      "country": "South Africa",
+      "date": "2026-08-23",
+      "title": "Locked out after requesting a transfer — adbit.pro",
+      "text": "Started with a crypto transfer; activity looked normal at first on an Instagram lead form. The site I used was tied to Adbit. The manager stopped answering after I asked to withdraw. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Lucas Romano",
+      "initials": "LR",
+      "country": "United Kingdom",
+      "date": "2026-08-20",
+      "title": "Payout request went nowhere (adbit.pro)",
+      "text": "Every cash-out ticket closed with a delay story and no wire. Followed instructions from their mobile app and completed a card deposit. Domain on my notes: adbit.pro. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "corevarious-review": [
+    {
+      "name": "Rafael Castillo",
+      "initials": "RC",
+      "country": "Mexico",
+      "date": "2026-11-03",
+      "title": "Urgente: fondos atrapados en “verificación” (corevarious.com)",
+      "text": "Empecé en un escritorio de Telegram tras un transferencia cripto. Unos £12,300 siguen bloqueados tras congelar el retiro. Fue bajo el nombre Core Various. ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-06",
+        "text": "Gracias por escribir. Indique cómo pagó, cuándo falló el retiro y cualquier ID de ticket para contrastarlo con el registro público.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Luis Johansson",
+      "initials": "LJ",
+      "country": "Belgium",
+      "date": "2026-10-09",
+      "title": "Opname geblokkeerd na storting (corevarious.com)",
+      "text": "Ik stortte via het webplatform met een crypto-transfer. (Core Various) Ik bewaar chat, bonnen en referentie-IDs. Heeft een vertrouwelijke beoordeling nog zin?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Amina Romano",
+      "initials": "AR",
+      "country": "Turkey",
+      "date": "2026-09-18",
+      "title": "corevarious.com: Çekim talebi yanıtsız kaldı",
+      "text": "e-cüzdan yükleme sonrası web platformu önce normal göründü. (Core Various) Çekim talep edince yönetici sustu. Zaman çizelgesi ve kanıtı kime göndermeliyim?",
+      "lang": "tr",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "stocktwits-review": [
+    {
+      "name": "Mei Mendoza",
+      "initials": "MM",
+      "country": "Poland",
+      "date": "2026-11-02",
+      "title": "Zyski tylko na panelu (stocktwits.com)",
+      "text": "Start na tylko e-mail po przelew bankowy. (StockTwits) Pokazywali zyski, a zatrzymali około €3,800 bez wyjaśnienia. Czy poufna analiza ma jeszcze sens?",
+      "lang": "pl",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-05",
+        "text": "Dziękujemy za wiadomość. Opiszcie wpłatę, nieudaną wypłatę i ID zgłoszeń; porównamy z publicznymi źródłami.",
+        "ctaLabel": "Skontaktuj się w sprawie konsultacji →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Sean Keller",
+      "initials": "SK",
+      "country": "New Zealand",
+      "date": "2026-10-19",
+      "title": "Urgent: funds stuck after “verification” — stocktwits.com",
+      "text": "I still have the chat log, receipts, and wallet/reference IDs. Started with a e-wallet top-up; activity looked normal at first on an Instagram lead form. I dealt with what presented as StockTwits. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Ana Hughes",
+      "initials": "AH",
+      "country": "Austria",
+      "date": "2026-08-23",
+      "title": "Kein Zugriff auf meine Einlagen / stocktwits.com",
+      "text": "Einstieg über einen WhatsApp-Betreuer, Zahlung per USDT-Transfer. Eine kleine Testauszahlung klappte einmal — die echte nicht. Aufgetreten als StockTwits. Wen soll ich mit Zeitablauf und Nachweisen kontaktieren?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "odecent-review": [
+    {
+      "name": "Mei Castillo",
+      "initials": "MC",
+      "country": "Italy",
+      "date": "2026-10-22",
+      "title": "Il manager è sparito (odecent.com)",
+      "text": "Su una chat di recovery sembrava regolare dopo il bonifico in due tranche. Quasi €22,100 non sono arrivati in banca quando hanno congelato la richiesta maggiore. (Odecent) C’è un passo successivo concreto?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-24",
+        "text": "Spiace per il prelievo bloccato. Condivida date, importi e dominio usato; indichiamo opzioni in privato.",
+        "ctaLabel": "Contattaci per una consulenza →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Daniel Novak",
+      "initials": "DN",
+      "country": "Brazil",
+      "date": "2026-10-11",
+      "title": "Pedido de pagamento sem resposta — odecent.com",
+      "text": "Comecei em só suporte por e-mail após um SEPA no mesmo dia. (Odecent) O suporte pedia novas verificações sem libertar fundos. Podem olhar o caso em silêncio?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Marta Silva",
+      "initials": "MS",
+      "country": "Austria",
+      "date": "2026-09-22",
+      "title": "Auszahlung weiter blockiert · Überweisung in zwei Tranchen",
+      "text": "Zuerst wirkte ein Instagram-Formular normal nach meiner Überweisung in zwei Tranchen. Ist eine vertrauliche Prüfung noch sinnvoll? Support verlangte neue Schritte, ohne Geld freizugeben. (Odecent)",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "diamondfx-review": [
+    {
+      "name": "Clara Ibrahim",
+      "initials": "CI",
+      "country": "Turkey",
+      "date": "2026-10-16",
+      "title": "just over £9,000 · Yönetici büyük talepte kayboldu",
+      "text": "USDT transferi sonrası WhatsApp yöneticisi ile başladım. Gizli inceleme hâlâ mantıklı mı? Çekim engellenince yaklaşık just over £9,000 takılı kaldı. Bu Diamond FX adı altındaydı.",
+      "lang": "tr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-18",
+        "text": "Engellenen çekim için üzgünüz. Tarih, tutar ve kullanılan alan adını paylaşın — seçenekleri gizlice özetleriz.",
+        "ctaLabel": "Görüşme için bize ulaşın →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Nils Hassan",
+      "initials": "NH",
+      "country": "New Zealand",
+      "date": "2026-09-29",
+      "title": "diamondfx.com: Locked out after requesting a transfer",
+      "text": "Onboarded through an Instagram lead form and sent a Apple Pay deposit. Who should I contact with the timeline and proof I still have? Every cash-out ticket closed with a delay story and no wire. Profile concerned: Diamond FX.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Noor Baptiste",
+      "initials": "NB",
+      "country": "Canada",
+      "date": "2026-09-02",
+      "title": "diamondfx.com: Screenshots saved — still no payout",
+      "text": "Started with a e-wallet top-up; activity looked normal at first on email support only. Domain on my notes: diamondfx.com. Profile concerned: Diamond FX. The manager stopped answering after I asked to withdraw. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "phillipcapital-review": [
+    {
+      "name": "Hans Silva",
+      "initials": "HS",
+      "country": "Belgium",
+      "date": "2026-10-26",
+      "title": "Opname geblokkeerd na storting (phillipcapital.com)",
+      "text": "Ze toonden winst, maar hielden zo’n $23,900 achter zonder uitleg. Op alleen e-mailsupport leek alles normaal na de zelfde-dag SEPA. (Phillip Capital) Kunnen jullie dit stil bekijken?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-28",
+        "text": "Het spijt ons. Voor een vertrouwelijke beoordeling: stuur tijdlijn, betaalwijze en chat-/transferbewijs.",
+        "ctaLabel": "Neem contact op voor een consult →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Kenji Popescu",
+      "initials": "KP",
+      "country": "Singapore",
+      "date": "2026-09-26",
+      "title": "Test withdrawal worked once, then nothing · Apple Pay deposit",
+      "text": "Started with a Apple Pay deposit; activity looked normal at first on a recovery chat. Profile concerned: Phillip Capital. Withdrawals then stalled and chat only recycled the same checklist. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Hugo Moreau",
+      "initials": "HM",
+      "country": "Mexico",
+      "date": "2026-09-14",
+      "title": "No puedo sacar el dinero / phillipcapital.com",
+      "text": "El gestor dejó de responder cuando pedí el retiro. Empecé en la plataforma web tras un recarga de monedero. Dominio en mis notas: phillipcapital.com. ¿Pueden mirar el caso en silencio?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "vireofinance-review": [
+    {
+      "name": "Mei Brennan",
+      "initials": "MB",
+      "country": "South Africa",
+      "date": "2026-09-28",
+      "title": "$4,200 · Support loop — no real release of funds",
+      "text": "About $4,200 is still stuck after they blocked the withdrawal. I put money in via a same-day SEPA on a cold-call broker desk. Domain on my notes: vireofinance.net. Profile concerned: Vireo Finance. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-01",
+        "text": "We understand how disruptive a frozen balance is. Contact us with screenshots and a short chronology if you want next-step advice without obligation.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Bruno Vogel",
+      "initials": "BV",
+      "country": "Belgium",
+      "date": "2026-09-11",
+      "title": "Account bevroren bij uitvraag / vireofinance.net",
+      "text": "Ik stortte via een Instagram-formulier met een kaartstorting. Heeft een vertrouwelijke beoordeling nog zin? De manager reageerde niet meer toen ik om opname vroeg. Gepresenteerd als Vireo Finance.",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Nina Park",
+      "initials": "NP",
+      "country": "Italy",
+      "date": "2026-08-17",
+      "title": "Saldo visibile, banca vuota — vireofinance.net",
+      "text": "Inizio su una chat di recovery dopo un deposito con carta. Dominio nei miei appunti: vireofinance.net. Un prelievo test è passato una volta; quello vero no. Ha ancora senso un esame confidenziale?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "finanzhammer-review": [
+    {
+      "name": "Jonas Cruz",
+      "initials": "JC",
+      "country": "Australia",
+      "date": "2026-11-01",
+      "title": "finanzhammer.com: Screenshots saved — still no payout (€3,800)",
+      "text": "I put money in via a bank wire on an Instagram lead form. The site I used was tied to Finanzhammer. The open balance near €3,800 will not move at all. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-02",
+        "text": "We understand how disruptive a frozen balance is. Contact us with screenshots and a short chronology if you want next-step advice without obligation.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Ava Moreau",
+      "initials": "AM",
+      "country": "Austria",
+      "date": "2026-09-18",
+      "title": "Auszahlung weiter blockiert / finanzhammer.com",
+      "text": "Zuerst wirkte die Web-Plattform normal nach meiner SEPA am selben Tag. Wen soll ich mit Zeitablauf und Nachweisen kontaktieren? Der Betreuer antwortete nicht mehr, als ich die Auszahlung verlangte. In meinen Notizen: finanzhammer.com.",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Mei Keller",
+      "initials": "MK",
+      "country": "Belgium",
+      "date": "2026-09-02",
+      "title": "Manager verdween na groter verzoek · overschrijving in twee tranches",
+      "text": "Op een Telegram-desk leek alles normaal na de overschrijving in twee tranches. Opnames stopten; de chat herhaalde dezelfde checklist. (Finanzhammer) Is er een concrete volgende stap?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "crynvest-review": [
+    {
+      "name": "Kira Rossi",
+      "initials": "KR",
+      "country": "Germany",
+      "date": "2026-10-08",
+      "title": "Kleine Testauszahlung, dann nichts — close to $50,000 on crynvest.com",
+      "text": "Ich habe über die Web-Plattform mit einer Krypto-Transfer eingezahlt. Ist eine vertrauliche Prüfung noch sinnvoll? Etwa close to $50,000 stecken fest, nachdem die Auszahlung blockiert wurde. (Crynvest)",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-10",
+        "text": "Schade wegen der blockierten Auszahlung. Teilen Sie Daten, Beträge und die genutzte Domain — wir skizzieren ruhig Optionen.",
+        "ctaLabel": "Kontakt für eine Beratung →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Viktor Santos",
+      "initials": "VS",
+      "country": "Australia",
+      "date": "2026-09-10",
+      "title": "crynvest.com: Payout request went nowhere",
+      "text": "I put money in via a wire in two tranches on the web platform. Can someone advise if a confidential review is still worth it? A small test payout went through once; the real request never completed. I dealt with what presented as Crynvest.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Kenji Fischer",
+      "initials": "KF",
+      "country": "New Zealand",
+      "date": "2026-07-05",
+      "title": "Cannot move funds off the platform (crynvest.com)",
+      "text": "I still have the chat log, receipts, and wallet/reference IDs. I put money in via a e-wallet top-up on the web platform. The site I used was tied to Crynvest. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "coinsmex-review": [
+    {
+      "name": "Noor Mendoza",
+      "initials": "NM",
+      "country": "Italy",
+      "date": "2026-10-15",
+      "title": "Conto congelato alla richiesta di cash-out — £12,300 on coinsmex.net",
+      "text": "Ho versato tramite solo supporto email con un deposito Apple Pay. Quasi £12,300 non sono arrivati in banca quando hanno congelato la richiesta maggiore. (Coinsmex) C’è un passo successivo concreto?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-16",
+        "text": "Ci dispiace. Per un esame confidenziale, invii cronologia, metodo di pagamento e riferimenti di chat o bonifici.",
+        "ctaLabel": "Contattaci per una consulenza →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Vera Petrov",
+      "initials": "VP",
+      "country": "Portugal",
+      "date": "2026-09-24",
+      "title": "coinsmex.net: Pedido de saque ignorado",
+      "text": "Os saques pararam e o chat só repetia a lista. Comecei em um formulário no Instagram após um transferência bancária. (Coinsmex) Há um próximo passo prático?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Johan Weber",
+      "initials": "JW",
+      "country": "Italy",
+      "date": "2026-09-07",
+      "title": "coinsmex.net: Blocco dopo la richiesta di bonifico",
+      "text": "Ho versato tramite un broker telefonico con un bonifico in due tranche. Potete guardare il fascicolo in silenzio? I prelievi si sono fermati; la chat ripeteva solo checklist. (Coinsmex)",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "evergrowthfinance-review": [
+    {
+      "name": "Mia Cohen",
+      "initials": "MC",
+      "country": "Colombia",
+      "date": "2026-11-03",
+      "title": "evergrowthfinance.com: Sigo sin el pago prometido (€14,700)",
+      "text": "Aporté por un broker por llamada con un transferencia cripto. ¿Pueden mirar el caso en silencio? Mostraban beneficios, pero retuvieron cerca de €14,700 sin explicación. Fue bajo el nombre Evergrowth Finance.",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-06",
+        "text": "Sentimos el retiro bloqueado. Comparta fechas, montos y el dominio usado; podemos esbozar opciones en privado.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Diego Dubois",
+      "initials": "DD",
+      "country": "Romania",
+      "date": "2026-09-26",
+      "title": "Am capturi — fără retragere (evergrowthfinance.com)",
+      "text": "Am depus prin un formular Instagram cu un depunere Apple Pay. Mai are sens o analiză confidențială? Am chat, chitanțe și ID-uri de referință. Domeniul din notițe: evergrowthfinance.com.",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Yusuf García",
+      "initials": "YG",
+      "country": "Australia",
+      "date": "2026-09-10",
+      "title": "Withdrawal stalled after deposit / evergrowthfinance.com",
+      "text": "Onboarded through an account manager on WhatsApp and sent a bank wire. Withdrawals then stalled and chat only recycled the same checklist. Profile concerned: Evergrowth Finance. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "bigmarkets-review": [
+    {
+      "name": "Olivia Okafor",
+      "initials": "OO",
+      "country": "Canada",
+      "date": "2026-09-18",
+      "title": "Still chasing a blocked payout — about $15k on bigmarkets.com",
+      "text": "Started with a wire in two tranches; activity looked normal at first on a cold-call broker desk. Who should I contact with the timeline and proof I still have? They showed green “profits,” then held back about about $15k without explanation. This was under the Big Markets name.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-19",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Rafael García",
+      "initials": "RG",
+      "country": "Italy",
+      "date": "2026-08-02",
+      "title": "Deposito ok — uscita no — bigmarkets.com",
+      "text": "Ho versato tramite una chat di recovery con un transfer USDT. Si presentava come Big Markets. Ho chat, ricevute e ID di riferimento. Potete guardare il fascicolo in silenzio?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Ava Moreau",
+      "initials": "AM",
+      "country": "New Zealand",
+      "date": "2026-06-14",
+      "title": "Locked out after requesting a transfer / bigmarkets.com",
+      "text": "I funded through the web platform after a wire in two tranches. Profile concerned: Big Markets. They cited compliance holds that never resolved into a transfer. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "tradewell-review": [
+    {
+      "name": "Priya Fischer",
+      "initials": "PF",
+      "country": "Turkey",
+      "date": "2026-10-11",
+      "title": "Havale sonrası kilit — just over £9,000 on tradewell.io",
+      "text": "web platformu üzerinden USDT transferi ile yatırdım. Çekim engellenince yaklaşık just over £9,000 takılı kaldı. Notlarımdaki alan adı: tradewell.io. Zaman çizelgesi ve kanıtı kime göndermeliyim?",
+      "lang": "tr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-13",
+        "text": "Üzüldük. Gizli inceleme için zaman çizelgesi, ödeme yöntemi ve sohbet/transfer kayıtlarını gönderin.",
+        "ctaLabel": "Görüşme için bize ulaşın →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Sean Iqbal",
+      "initials": "SI",
+      "country": "Chile",
+      "date": "2026-09-18",
+      "title": "Retiro bloqueado tras el depósito / tradewell.io",
+      "text": "Todo parecía normal en un gestor por WhatsApp después del SEPA el mismo día. Conservo chats, recibos e IDs de referencia. Dominio en mis notas: tradewell.io. ¿Hay un siguiente paso práctico?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Ian Rahman",
+      "initials": "IR",
+      "country": "Singapore",
+      "date": "2026-08-27",
+      "title": "Still chasing a blocked payout · card deposit",
+      "text": "Onboarded through a Telegram desk and sent a card deposit. They cited compliance holds that never resolved into a transfer. I dealt with what presented as Tradewell. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "emeraldholdingsltd-review": [
+    {
+      "name": "Hugo Weber",
+      "initials": "HW",
+      "country": "Chile",
+      "date": "2026-09-26",
+      "title": "Urgente: fondos atrapados en “verificación” — €37,500 on emeraldholdingsltd.com",
+      "text": "Todo parecía normal en un chat de recuperación después del SEPA el mismo día. ¿Hay un siguiente paso práctico? Mostraban beneficios, pero retuvieron cerca de €37,500 sin explicación. Se presentó como Emerald Holdings Ltd.",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-28",
+        "text": "Lamentamos lo ocurrido. Para una revisión confidencial, envíe cronograma, forma de pago y referencias de chat o transferencias.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Priya Weber",
+      "initials": "PW",
+      "country": "Canada",
+      "date": "2026-08-25",
+      "title": "Locked out after requesting a transfer · e-wallet top-up",
+      "text": "Onboarded through their mobile app and sent a e-wallet top-up. Withdrawals then stalled and chat only recycled the same checklist. Profile concerned: Emerald Holdings Ltd. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Nina Yamamoto",
+      "initials": "NY",
+      "country": "Poland",
+      "date": "2026-07-12",
+      "title": "Nie mogę wypłacić środków (emeraldholdingsltd.com)",
+      "text": "Start na formularz Instagram po SEPA tego samego dnia. Szło pod nazwą Emerald Holdings Ltd. Wypłaty stanęły; czat powtarzał tę samą listę. Czy można to przejrzeć po cichu?",
+      "lang": "pl",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "trendifyfx-review": [
+    {
+      "name": "Marco Petrov",
+      "initials": "MP",
+      "country": "France",
+      "date": "2026-09-24",
+      "title": "about $15k · Retrait bloqué après dépôt",
+      "text": "J’ai déposé via leur application avec un dépôt par carte. Y a-t-il une prochaine étape concrète ? Ils affichaient des gains, puis retenaient environ about $15k sans explication. Présenté comme Trendify FX.",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-25",
+        "text": "Nous sommes désolés. Pour un examen confidentiel, envoyez calendrier, mode de paiement et références de chat ou virement.",
+        "ctaLabel": "Contactez-nous pour une consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Marta Weber",
+      "initials": "MW",
+      "country": "Netherlands",
+      "date": "2026-08-11",
+      "title": "Uitbetaling nog geblokkeerd · e-wallet-opwaardering",
+      "text": "Ik bewaar chat, bonnen en referentie-IDs. Op een recovery-chat leek alles normaal na de e-wallet-opwaardering. Domein in mijn notities: trendifyfx.com. Naar wie stuur ik tijdlijn en bewijs?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Amina Lindqvist",
+      "initials": "AL",
+      "country": "New Zealand",
+      "date": "2026-07-10",
+      "title": "Urgent: funds stuck after “verification” · USDT transfer",
+      "text": "Started with a USDT transfer; activity looked normal at first on an Instagram lead form. Any guidance on what to keep and where to send it? Every cash-out ticket closed with a delay story and no wire. Domain on my notes: trendifyfx.com. Profile concerned: Trendify FX.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "voltizifxt-review": [
+    {
+      "name": "Marcus Vo",
+      "initials": "MV",
+      "country": "United Arab Emirates",
+      "date": "2026-10-23",
+      "title": "Account frozen when I asked for cash out — £5,400 on voltizifxt.com",
+      "text": "Started with a crypto transfer; activity looked normal at first on a cold-call broker desk. Is there a practical next step before I chase banks or police alone? They showed green “profits,” then held back about £5,400 without explanation. Profile concerned: Voltizi FXT.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-24",
+        "text": "We’re sorry this happened. If you want a confidential review, contact us with the account timeline, payment method, and any chat or transfer references you still have.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Ava Diaz",
+      "initials": "AD",
+      "country": "Belgium",
+      "date": "2026-09-25",
+      "title": "Uitbetaling nog geblokkeerd (voltizifxt.com)",
+      "text": "Ik bewaar chat, bonnen en referentie-IDs. Ik stortte via een telefonische broker met een kaartstorting. Domein in mijn notities: voltizifxt.com. Kunnen jullie dit stil bekijken?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Hans Brennan",
+      "initials": "HB",
+      "country": "Italy",
+      "date": "2026-08-03",
+      "title": "Prelievo test ok, poi nulla (voltizifxt.com)",
+      "text": "Inizio su un desk Telegram dopo un bonifico. Potete guardare il fascicolo in silenzio? Il supporto chiedeva nuove verifiche senza sbloccare. Era sotto il nome Voltizi FXT.",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "perfectforextrading-review": [
+    {
+      "name": "Nils Fischer",
+      "initials": "NF",
+      "country": "Colombia",
+      "date": "2026-10-19",
+      "title": "£19,800 · Retiro de prueba, luego silencio",
+      "text": "Aporté por solo soporte por email con un transferencia en dos tramos. Cerca de £19,800 no llegaron al banco cuando congelaron la solicitud mayor. (Perfect Forex Trading) ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-21",
+        "text": "Gracias por escribir. Indique cómo pagó, cuándo falló el retiro y cualquier ID de ticket para contrastarlo con el registro público.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Emilia Olsen",
+      "initials": "EO",
+      "country": "United Arab Emirates",
+      "date": "2026-09-23",
+      "title": "perfectforextrading.org: Balance shows, bank never receives",
+      "text": "I put money in via a USDT transfer on an Instagram lead form. They cited compliance holds that never resolved into a transfer. Domain on my notes: perfectforextrading.org. Profile concerned: Perfect Forex Trading. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Kira Diaz",
+      "initials": "KD",
+      "country": "New Zealand",
+      "date": "2026-08-20",
+      "title": "Urgent: funds stuck after “verification” / perfectforextrading.org",
+      "text": "Onboarded through a recovery chat and sent a wire in two tranches. Who should I contact with the timeline and proof I still have? The manager stopped answering after I asked to withdraw. Profile concerned: Perfect Forex Trading.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "imperiumfirm-review": [
+    {
+      "name": "Pavel Kaya",
+      "initials": "PK",
+      "country": "Japan",
+      "date": "2026-10-25",
+      "title": "£2,950 · Test withdrawal worked once, then nothing",
+      "text": "Followed instructions from a cold-call broker desk and completed a crypto transfer. The open balance near £2,950 will not move at all. Profile concerned: Imperium Firm. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-27",
+        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Ellen Mendoza",
+      "initials": "EM",
+      "country": "Singapore",
+      "date": "2026-09-15",
+      "title": "Dashboard profits never reached my bank · Apple Pay deposit",
+      "text": "I still have the chat log, receipts, and wallet/reference IDs. I put money in via a Apple Pay deposit on a cold-call broker desk. Profile concerned: Imperium Firm. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Vera Fernández",
+      "initials": "VF",
+      "country": "Mexico",
+      "date": "2026-09-06",
+      "title": "Beneficios solo en el panel / imperiumfirm.com",
+      "text": "Todo parecía normal en su app móvil después del depósito con tarjeta. Fue bajo el nombre Imperium Firm. Un retiro de prueba salió una vez; el real no. ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "setwindbrokers-review": [
+    {
+      "name": "Malik Novak",
+      "initials": "MN",
+      "country": "Italy",
+      "date": "2026-10-22",
+      "title": "€22,100 · Prelievo test ok, poi nulla",
+      "text": "Inizio su un form Instagram dopo un bonifico. Dominio nei miei appunti: setwindbrokers.com. Quasi €22,100 non sono arrivati in banca quando hanno congelato la richiesta maggiore. A chi mando cronologia e prove?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-25",
+        "text": "Ci dispiace. Per un esame confidenziale, invii cronologia, metodo di pagamento e riferimenti di chat o bonifici.",
+        "ctaLabel": "Contattaci per una consulenza →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Vera Berg",
+      "initials": "VB",
+      "country": "Italy",
+      "date": "2026-09-24",
+      "title": "setwindbrokers.com: Urgente: fondi bloccati in “verifica”",
+      "text": "Su un form Instagram sembrava regolare dopo il bonifico. C’è un passo successivo concreto? Ho chat, ricevute e ID di riferimento. (Setwind Brokers)",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Kenji Dubois",
+      "initials": "KD",
+      "country": "France",
+      "date": "2026-07-17",
+      "title": "setwindbrokers.com: Paiement toujours bloqué",
+      "text": "J’ai déposé via support e-mail seulement avec un rechargement e-wallet. (Setwind Brokers) Le gestionnaire a cessé de répondre quand j’ai demandé le retrait. Y a-t-il une prochaine étape concrète ?",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "taniminecraft-review": [
+    {
+      "name": "Yara Fernández",
+      "initials": "YF",
+      "country": "Poland",
+      "date": "2026-10-10",
+      "title": "Wpłata OK — wypłata nie — €9,200 on taniminecraft.pl",
+      "text": "Na czat recovery wyglądało to normalnie po wpłata Apple Pay. Blisko €9,200 nie trafiło do banku, gdy zamrożono większy wniosek. Szło pod nazwą Tani Minecraft. Czy można to przejrzeć po cichu?",
+      "lang": "pl",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-13",
+        "text": "Dziękujemy za wiadomość. Opiszcie wpłatę, nieudaną wypłatę i ID zgłoszeń; porównamy z publicznymi źródłami.",
+        "ctaLabel": "Skontaktuj się w sprawie konsultacji →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Freya Romano",
+      "initials": "FR",
+      "country": "Germany",
+      "date": "2026-08-22",
+      "title": "Kleine Testauszahlung, dann nichts · Apple-Pay-Einzahlung",
+      "text": "Support verlangte neue Schritte, ohne Geld freizugeben. Einstieg über einen Telegram-Desk, Zahlung per Apple-Pay-Einzahlung. In meinen Notizen: taniminecraft.pl. Kann jemand still prüfen, ob noch etwas geht?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Marcus Dubois",
+      "initials": "MD",
+      "country": "United Arab Emirates",
+      "date": "2026-08-11",
+      "title": "Account frozen when I asked for cash out · bank wire",
+      "text": "Onboarded through a cold-call broker desk and sent a bank wire. The manager stopped answering after I asked to withdraw. The site I used was tied to Tani Minecraft. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "cedrus-capital-review": [
+    {
+      "name": "Ellen Brennan",
+      "initials": "EB",
+      "country": "South Africa",
+      "date": "2026-09-27",
+      "title": "Dashboard profits never reached my bank — £5,400 on cedrus.capital",
+      "text": "Roughly £5,400 never cleared to my bank once they froze the larger request. I put money in via a crypto transfer on an Instagram lead form. Profile concerned: Cedrus Capital. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-29",
+        "text": "We’re sorry this happened. If you want a confidential review, contact us with the account timeline, payment method, and any chat or transfer references you still have.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Callum Petrov",
+      "initials": "CP",
+      "country": "United Kingdom",
+      "date": "2026-08-11",
+      "title": "Account frozen when I asked for cash out · e-wallet top-up",
+      "text": "I funded through a Telegram desk after a e-wallet top-up. Please say whether counsel can still look at this quietly. I still have the chat log, receipts, and wallet/reference IDs. This was under the Cedrus Capital name.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Owen Murray",
+      "initials": "OM",
+      "country": "New Zealand",
+      "date": "2026-07-03",
+      "title": "Balance shows, bank never receives · Apple Pay deposit",
+      "text": "Support kept pushing new verification steps without releasing funds. I funded through an account manager on WhatsApp after a Apple Pay deposit. Domain on my notes: cedrus.capital. Profile concerned: Cedrus Capital. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "clidd-review": [
+    {
+      "name": "Caroline Watanabe",
+      "initials": "CW",
+      "country": "Colombia",
+      "date": "2026-09-29",
+      "title": "£2,950 · Soporte da largas sin liberar fondos",
+      "text": "Empecé en un broker por llamada tras un depósito con tarjeta. ¿Pueden mirar el caso en silencio? Unos £2,950 siguen bloqueados tras congelar el retiro. Se presentó como Clidd.",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-01",
+        "text": "Sentimos el retiro bloqueado. Comparta fechas, montos y el dominio usado; podemos esbozar opciones en privado.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Vera Lindqvist",
+      "initials": "VL",
+      "country": "Chile",
+      "date": "2026-09-08",
+      "title": "clidd.com: Soporte da largas sin liberar fondos",
+      "text": "Empecé en un escritorio de Telegram tras un transferencia bancaria. ¿Conviene aún una revisión confidencial? Conservo chats, recibos e IDs de referencia. (Clidd)",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Pavel Singh",
+      "initials": "PS",
+      "country": "Brazil",
+      "date": "2026-08-13",
+      "title": "Pagamento ainda preso — clidd.com",
+      "text": "O suporte pedia novas verificações sem libertar fundos. Comecei em um gestor no WhatsApp após um transferência bancária. Domínio nas notas: clidd.com. A quem envio o cronograma e as provas?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "beograd-consulting-review": [
+    {
+      "name": "Malik Nguyen",
+      "initials": "MN",
+      "country": "Italy",
+      "date": "2026-10-03",
+      "title": "Non riesco a spostare i fondi (beograd-consulting.com)",
+      "text": "Ho versato tramite un form Instagram con un transfer USDT. A chi mando cronologia e prove? Circa €3,800 restano bloccati dopo il blocco del prelievo. Si presentava come Beograd Consulting.",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-04",
+        "text": "Grazie per lo scritto. Descriva pagamento, fallimento del prelievo e ID ticket; li confronteremo con le fonti pubbliche.",
+        "ctaLabel": "Contattaci per una consulenza →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Ava Mendoza",
+      "initials": "AM",
+      "country": "Brazil",
+      "date": "2026-09-17",
+      "title": "Saque bloqueado após depósito · transferência em duas tranches",
+      "text": "Comecei em só suporte por e-mail após um transferência em duas tranches. Domínio nas notas: beograd-consulting.com. Os saques pararam e o chat só repetia a lista. Podem olhar o caso em silêncio?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Marco Cruz",
+      "initials": "MC",
+      "country": "Brazil",
+      "date": "2026-07-09",
+      "title": "Saque bloqueado após depósito / beograd-consulting.com",
+      "text": "Depositei via um broker por telefone com um transferência crypto. Domínio nas notas: beograd-consulting.com. Os saques pararam e o chat só repetia a lista. A quem envio o cronograma e as provas?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "henleyspire-review": [
+    {
+      "name": "Ava Lindqvist",
+      "initials": "AL",
+      "country": "Canada",
+      "date": "2026-11-05",
+      "title": "€22,100 · Balance shows, bank never receives",
+      "text": "Followed instructions from a recovery chat and completed a Apple Pay deposit. Who should I contact with the timeline and proof I still have? Roughly €22,100 never cleared to my bank once they froze the larger request. Profile concerned: Henley Spire.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-06",
+        "text": "We’re sorry this happened. If you want a confidential review, contact us with the account timeline, payment method, and any chat or transfer references you still have.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Marta Fischer",
+      "initials": "MF",
+      "country": "Italy",
+      "date": "2026-09-19",
+      "title": "Supporto che rimanda senza sbloccare (henleyspire.com)",
+      "text": "Il supporto chiedeva nuove verifiche senza sbloccare. Inizio su un broker telefonico dopo un deposito Apple Pay. Si presentava come Henley Spire. Ha ancora senso un esame confidenziale?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Chloe Berg",
+      "initials": "CB",
+      "country": "Canada",
+      "date": "2026-09-16",
+      "title": "Test withdrawal worked once, then nothing — henleyspire.com",
+      "text": "I put money in via a bank wire on the web platform. Who should I contact with the timeline and proof I still have? The manager stopped answering after I asked to withdraw. Profile concerned: Henley Spire.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "elitetradeltd-review": [
+    {
+      "name": "Petra Al Farsi",
+      "initials": "PA",
+      "country": "Japan",
+      "date": "2026-11-03",
+      "title": "elitetradeltd.com: Support loop — no real release of funds (close to $50,000)",
+      "text": "Followed instructions from an account manager on WhatsApp and completed a card deposit. Roughly close to $50,000 never cleared to my bank once they froze the larger request. Profile concerned: Elite Trade Ltd. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-06",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Freya Vo",
+      "initials": "FV",
+      "country": "Italy",
+      "date": "2026-09-28",
+      "title": "Supporto che rimanda senza sbloccare · bonifico in due tranche",
+      "text": "Inizio su un broker telefonico dopo un bonifico in due tranche. Ha ancora senso un esame confidenziale? I prelievi si sono fermati; la chat ripeteva solo checklist. Dominio nei miei appunti: elitetradeltd.com.",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Emilia Kowalski",
+      "initials": "EK",
+      "country": "Spain",
+      "date": "2026-08-30",
+      "title": "elitetradeltd.com: El gestor desapareció",
+      "text": "Aporté por un formulario de Instagram con un depósito Apple Pay. (Elite Trade Ltd) Conservo chats, recibos e IDs de referencia. ¿Pueden mirar el caso en silencio?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "allhourcare-review": [
+    {
+      "name": "Bruno Yamamoto",
+      "initials": "BY",
+      "country": "Germany",
+      "date": "2026-09-27",
+      "title": "Auszahlungsantrag ohne Ergebnis (allhourcare.com)",
+      "text": "Ich habe über einen Telefonvertrieb mit einer E-Wallet-Aufladung eingezahlt. Kann jemand still prüfen, ob noch etwas geht? Auf dem Dashboard stand Gewinn, aber etwa $31,200 wurden nicht freigegeben. Aufgetreten als All Hour Care.",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-29",
+        "text": "Danke für Ihre Nachricht. Beschreiben Sie Einzahlung, gescheiterte Auszahlung und Ticket-IDs; wir gleichen das mit öffentlichen Quellen ab.",
+        "ctaLabel": "Kontakt für eine Beratung →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Marcus Bailey",
+      "initials": "MB",
+      "country": "Romania",
+      "date": "2026-09-08",
+      "title": "Retragere test, apoi tăcere (allhourcare.com)",
+      "text": "Pe platforma web părea normal după transfer în două tranșe. O retragere test a mers o dată; cea reală nu. (All Hour Care) Puteți privi dosarul în liniște?",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Callum Kaya",
+      "initials": "CK",
+      "country": "Ireland",
+      "date": "2026-07-11",
+      "title": "Balance shows, bank never receives — allhourcare.com",
+      "text": "Every cash-out ticket closed with a delay story and no wire. I funded through the web platform after a crypto transfer. This was under the All Hour Care name. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "crypstoneglobalinvestments-review": [
+    {
+      "name": "Camille Baptiste",
+      "initials": "CB",
+      "country": "Japan",
+      "date": "2026-09-18",
+      "title": "Payout request went nowhere — $7,850 on Crypstone Global Investments",
+      "text": "They showed green “profits,” then held back about $7,850 without explanation. I funded through their mobile app after a bank wire. Profile concerned: Crypstone Global Investments. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-19",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Lucia Mendoza",
+      "initials": "LM",
+      "country": "Poland",
+      "date": "2026-09-10",
+      "title": "Nie mogę wypłacić środków / Crypstone Global Investments",
+      "text": "Opiekun zamilkł, gdy poprosiłem o wypłatę. Start na czat recovery po SEPA tego samego dnia. Domena w notatkach: crypstoneglobalinvestments.com. Czy poufna analiza ma jeszcze sens?",
+      "lang": "pl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Giulia Costa",
+      "initials": "GC",
+      "country": "Austria",
+      "date": "2026-07-01",
+      "title": "Support-Schleife ohne Auszahlung · Banküberweisung",
+      "text": "Eine kleine Testauszahlung klappte einmal — die echte nicht. Einstieg über die Web-Plattform, Zahlung per Banküberweisung. (Crypstone Global Investments) Gibt es einen sinnvollen nächsten Schritt?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "starpronto-review": [
+    {
+      "name": "Andre Santos",
+      "initials": "AS",
+      "country": "Sweden",
+      "date": "2026-09-27",
+      "title": "starpronto.com: Screenshots saved — still no payout (£27,600)",
+      "text": "Started with a bank wire; activity looked normal at first on email support only. Can someone advise if a confidential review is still worth it? They showed green “profits,” then held back about £27,600 without explanation. This was under the Star Pronto name.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-28",
+        "text": "We understand how disruptive a frozen balance is. Contact us with screenshots and a short chronology if you want next-step advice without obligation.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Ravi Nair",
+      "initials": "RN",
+      "country": "Singapore",
+      "date": "2026-08-19",
+      "title": "starpronto.com: Account frozen when I asked for cash out",
+      "text": "Started with a bank wire; activity looked normal at first on an account manager on WhatsApp. Can someone advise if a confidential review is still worth it? Every cash-out ticket closed with a delay story and no wire. I dealt with what presented as Star Pronto.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Marta Baptiste",
+      "initials": "MB",
+      "country": "United Kingdom",
+      "date": "2026-06-27",
+      "title": "starpronto.com: Account frozen when I asked for cash out",
+      "text": "Onboarded through a cold-call broker desk and sent a crypto transfer. Domain on my notes: starpronto.com. Profile concerned: Star Pronto. Every cash-out ticket closed with a delay story and no wire. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "s9trader-review": [
+    {
+      "name": "Kenji Andersen",
+      "initials": "KA",
+      "country": "Spain",
+      "date": "2026-10-05",
+      "title": "s9trader.com: Urgente: fondos atrapados en “verificación” (about $15k)",
+      "text": "Empecé en solo soporte por email tras un depósito con tarjeta. Dominio en mis notas: s9trader.com. Cerca de about $15k no llegaron al banco cuando congelaron la solicitud mayor. ¿Pueden mirar el caso en silencio?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-07",
+        "text": "Sentimos el retiro bloqueado. Comparta fechas, montos y el dominio usado; podemos esbozar opciones en privado.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Helena Popescu",
+      "initials": "HP",
+      "country": "New Zealand",
+      "date": "2026-08-27",
+      "title": "Manager vanished after larger request — s9trader.com",
+      "text": "I put money in via a Apple Pay deposit on email support only. Please say whether counsel can still look at this quietly. I still have the chat log, receipts, and wallet/reference IDs. The site I used was tied to S9 Trader.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Nadia Yamamoto",
+      "initials": "NY",
+      "country": "Ireland",
+      "date": "2026-08-12",
+      "title": "Dashboard profits never reached my bank — s9trader.com",
+      "text": "Followed instructions from email support only and completed a same-day SEPA. Profile concerned: S9 Trader. A small test payout went through once; the real request never completed. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "alturex-review": [
+    {
+      "name": "Thomas Costa",
+      "initials": "TC",
+      "country": "Ireland",
+      "date": "2026-10-01",
+      "title": "alturex.net: Withdrawal stalled after deposit ($68,750)",
+      "text": "Onboarded through email support only and sent a Apple Pay deposit. Who should I contact with the timeline and proof I still have? The open balance near $68,750 will not move at all. Profile concerned: Alturex.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-03",
+        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Lara Yamamoto",
+      "initials": "LY",
+      "country": "Romania",
+      "date": "2026-09-07",
+      "title": "Retragere test, apoi tăcere · încărcare e-wallet",
+      "text": "O retragere test a mers o dată; cea reală nu. Pe un formular Instagram părea normal după încărcare e-wallet. (Alturex) Care e următorul pas practic?",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Zoe Park",
+      "initials": "ZP",
+      "country": "South Africa",
+      "date": "2026-07-05",
+      "title": "Cannot move funds off the platform · card deposit",
+      "text": "I still have the chat log, receipts, and wallet/reference IDs. I funded through a recovery chat after a card deposit. Profile concerned: Alturex. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "sellerdecksenna-review": [
+    {
+      "name": "Vera Olsen",
+      "initials": "VO",
+      "country": "Spain",
+      "date": "2026-10-13",
+      "title": "Retiro bloqueado tras el depósito — $18,600 on sellerdecksenna.com",
+      "text": "Aporté por un gestor por WhatsApp con un transferencia en dos tramos. ¿Hay un siguiente paso práctico? Unos $18,600 siguen bloqueados tras congelar el retiro. Dominio en mis notas: sellerdecksenna.com.",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-15",
+        "text": "Lamentamos lo ocurrido. Para una revisión confidencial, envíe cronograma, forma de pago y referencias de chat o transferencias.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Emilia Pretorius",
+      "initials": "EP",
+      "country": "Germany",
+      "date": "2026-09-26",
+      "title": "sellerdecksenna.com: Saldo sichtbar, Bank leer",
+      "text": "Ich habe über die Web-Plattform mit einer Krypto-Transfer eingezahlt. Wen soll ich mit Zeitablauf und Nachweisen kontaktieren? Eine kleine Testauszahlung klappte einmal — die echte nicht. (Seller Deck Senna)",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Hugo Hassan",
+      "initials": "HH",
+      "country": "Chile",
+      "date": "2026-08-19",
+      "title": "Soporte da largas sin liberar fondos / sellerdecksenna.com",
+      "text": "Aporté por un chat de recuperación con un depósito Apple Pay. (Seller Deck Senna) Los retiros se detuvieron y el chat solo repetía la misma lista. ¿Pueden mirar el caso en silencio?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "arkventurefunds-review": [
+    {
+      "name": "Callum Novak",
+      "initials": "CN",
+      "country": "Singapore",
+      "date": "2026-10-11",
+      "title": "arkventurefunds.com: Urgent: funds stuck after “verification” (€22,100)",
+      "text": "About €22,100 is still stuck after they blocked the withdrawal. Onboarded through their mobile app and sent a same-day SEPA. Domain on my notes: arkventurefunds.com. Profile concerned: Ark Venture Funds. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-12",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Petra Nowak",
+      "initials": "PN",
+      "country": "Austria",
+      "date": "2026-09-02",
+      "title": "Kein Zugriff auf meine Einlagen (arkventurefunds.com)",
+      "text": "Einstieg über nur E-Mail-Support, Zahlung per SEPA am selben Tag. Eine kleine Testauszahlung klappte einmal — die echte nicht. In meinen Notizen: arkventurefunds.com. Kann jemand still prüfen, ob noch etwas geht?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Kenji Iqbal",
+      "initials": "KI",
+      "country": "Sweden",
+      "date": "2026-07-05",
+      "title": "Still chasing a blocked payout · wire in two tranches",
+      "text": "I put money in via a wire in two tranches on their mobile app. The site I used was tied to Ark Venture Funds. A small test payout went through once; the real request never completed. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "nextleap-review": [
+    {
+      "name": "Noah Pretorius",
+      "initials": "NP",
+      "country": "Australia",
+      "date": "2026-10-31",
+      "title": "Balance shows, bank never receives — £5,400 on nextleap.vip",
+      "text": "I put money in via a Apple Pay deposit on a Telegram desk. Can someone advise if a confidential review is still worth it? I am missing close to £5,400 that still sits on-screen while payouts fail. Profile concerned: Next Leap.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-03",
+        "text": "We understand how disruptive a frozen balance is. Contact us with screenshots and a short chronology if you want next-step advice without obligation.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Hans Iqbal",
+      "initials": "HI",
+      "country": "Mexico",
+      "date": "2026-09-27",
+      "title": "Bloqueo tras pedir transferencia · transferencia USDT",
+      "text": "Aporté por solo soporte por email con un transferencia USDT. Dominio en mis notas: nextleap.vip. Conservo chats, recibos e IDs de referencia. ¿Hay un siguiente paso práctico?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Marta Nguyen",
+      "initials": "MN",
+      "country": "Italy",
+      "date": "2026-09-24",
+      "title": "Blocco dopo la richiesta di bonifico — nextleap.vip",
+      "text": "Inizio su la loro app dopo un bonifico in due tranche. Ha ancora senso un esame confidenziale? Ho chat, ricevute e ID di riferimento. Dominio nei miei appunti: nextleap.vip.",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "gfstargroup-review": [
+    {
+      "name": "Kira Pretorius",
+      "initials": "KP",
+      "country": "Sweden",
+      "date": "2026-10-14",
+      "title": "Support loop — no real release of funds — $18,600 on gfstargroup.com",
+      "text": "Followed instructions from the web platform and completed a e-wallet top-up. I am missing close to $18,600 that still sits on-screen while payouts fail. Profile concerned: GF Star Group. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-16",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Rafael Johansson",
+      "initials": "RJ",
+      "country": "Italy",
+      "date": "2026-09-17",
+      "title": "gfstargroup.com: Urgente: fondi bloccati in “verifica”",
+      "text": "Inizio su solo supporto email dopo un transfer USDT. Dominio nei miei appunti: gfstargroup.com. Il supporto chiedeva nuove verifiche senza sbloccare. Ha ancora senso un esame confidenziale?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Hans Johansson",
+      "initials": "HJ",
+      "country": "Poland",
+      "date": "2026-07-05",
+      "title": "gfstargroup.com: Wpłata OK — wypłata nie",
+      "text": "Na tylko e-mail wyglądało to normalnie po przelew w dwóch transzach. Do kogo wysłać harmonogram i dowody? Mam czat, potwierdzenia i numery referencyjne. Szło pod nazwą GF Star Group.",
+      "lang": "pl",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "troopwhaleapp-review": [
+    {
+      "name": "Malik Lindqvist",
+      "initials": "ML",
+      "country": "Romania",
+      "date": "2026-10-29",
+      "title": "£27,600 · Blocare după cerere de transfer",
+      "text": "Aproximativ £27,600 sunt blocate după ce au oprit retragerea. Am început pe un broker telefonic după un transfer crypto. (Troop Whale App) Cui trimit calendarul și dovezile?",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-30",
+        "text": "Ne pare rău pentru retragerea blocată. Trimiteți date, sume și domeniul folosit — schițăm opțiuni în privat.",
+        "ctaLabel": "Contactați-ne pentru o consultație →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Vera Yamamoto",
+      "initials": "VY",
+      "country": "Norway",
+      "date": "2026-10-09",
+      "title": "Withdrawal stalled after deposit · card deposit",
+      "text": "Followed instructions from an account manager on WhatsApp and completed a card deposit. Please say whether counsel can still look at this quietly. They cited compliance holds that never resolved into a transfer. Profile concerned: Troop Whale App.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Petra Cohen",
+      "initials": "PC",
+      "country": "Brazil",
+      "date": "2026-09-27",
+      "title": "troopwhaleapp.com: Gestor sumiu depois do pedido maior",
+      "text": "No a plataforma web parecia normal depois do carregamento e-wallet. Podem olhar o caso em silêncio? Um saque teste saiu uma vez; o real não. (Troop Whale App)",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "tlnprime-review": [
+    {
+      "name": "Nils Hayes",
+      "initials": "NH",
+      "country": "Romania",
+      "date": "2026-10-31",
+      "title": "$7,850 · Retragere test, apoi tăcere",
+      "text": "Pe un formular Instagram părea normal după transfer bancar. Domeniul din notițe: tlnprime.com. Aproximativ $7,850 sunt blocate după ce au oprit retragerea. Mai are sens o analiză confidențială?",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-02",
+        "text": "Ne pare rău. Pentru analiză confidențială, trimiteți calendarul, metoda de plată și referințe chat/transfer.",
+        "ctaLabel": "Contactați-ne pentru o consultație →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Pavel Keller",
+      "initials": "PK",
+      "country": "Poland",
+      "date": "2026-10-08",
+      "title": "Zyski tylko na panelu · SEPA tego samego dnia",
+      "text": "Wypłaty stanęły; czat powtarzał tę samą listę. Start na brokera telefonicznego po SEPA tego samego dnia. Szło pod nazwą TLN Prime. Czy poufna analiza ma jeszcze sens?",
+      "lang": "pl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Hans Berg",
+      "initials": "HB",
+      "country": "Australia",
+      "date": "2026-09-24",
+      "title": "Urgent: funds stuck after “verification” — tlnprime.com",
+      "text": "I put money in via a crypto transfer on email support only. Please say whether counsel can still look at this quietly. They cited compliance holds that never resolved into a transfer. Profile concerned: TLN Prime.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "bitbloomx-review": [
+    {
+      "name": "Leila Kaya",
+      "initials": "LK",
+      "country": "Turkey",
+      "date": "2026-09-26",
+      "title": "Ödeme talebi sonuçsuz kaldı (bitbloomx.com)",
+      "text": "USDT transferi sonrası telefonla arayan broker ile başladım. Panel kâr gösteriyordu ama about $15k açıklama yapılmadan tutuldu. Bu BitBloomX adı altındaydı. Gizli inceleme hâlâ mantıklı mı?",
+      "lang": "tr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-27",
+        "text": "Yazınız için teşekkürler. Yatırım, başarısız çekim ve ticket ID’lerini anlatın; kamu kaydıyla karşılaştırırız.",
+        "ctaLabel": "Görüşme için bize ulaşın →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Nils Cruz",
+      "initials": "NC",
+      "country": "Netherlands",
+      "date": "2026-08-24",
+      "title": "Manager verdween na groter verzoek — bitbloomx.com",
+      "text": "Op een telefonische broker leek alles normaal na de bankoverschrijving. Is er een concrete volgende stap? Een testopname lukte één keer; de echte niet. Dit was onder de naam BitBloomX.",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Ravi Andersen",
+      "initials": "RA",
+      "country": "Italy",
+      "date": "2026-08-16",
+      "title": "Prelievo bloccato dopo il deposito — bitbloomx.com",
+      "text": "Inizio su la piattaforma web dopo un transfer USDT. Era sotto il nome BitBloomX. Il manager ha smesso di rispondere quando ho chiesto il prelievo. C’è un passo successivo concreto?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "icrypex-review": [
+    {
+      "name": "Jonas Petrov",
+      "initials": "JP",
+      "country": "Brazil",
+      "date": "2026-10-21",
+      "title": "Bloqueio após pedir transferência — €6,450 on icrypex.com",
+      "text": "Depositei via a app móvel com um carregamento e-wallet. (Icrypex) Mostravam lucros, mas reteve cerca de €6,450 sem explicação. Podem olhar o caso em silêncio?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-24",
+        "text": "Lamentamos o saque bloqueado. Partilhe datas, montantes e o domínio usado — podemos delinear opções em privado.",
+        "ctaLabel": "Contacte-nos para uma consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Ravi Hayes",
+      "initials": "RH",
+      "country": "Brazil",
+      "date": "2026-09-18",
+      "title": "icrypex.com: Saque teste ok, depois nada",
+      "text": "O suporte pedia novas verificações sem libertar fundos. Depositei via um formulário no Instagram com um transferência em duas tranches. Foi sob o nome Icrypex. Há um próximo passo prático?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Chloe Schmidt",
+      "initials": "CS",
+      "country": "New Zealand",
+      "date": "2026-08-08",
+      "title": "Balance shows, bank never receives / icrypex.com",
+      "text": "I funded through an Instagram lead form after a card deposit. Support kept pushing new verification steps without releasing funds. The site I used was tied to Icrypex. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "kairox-review": [
+    {
+      "name": "Sofia Iqbal",
+      "initials": "SI",
+      "country": "South Africa",
+      "date": "2026-10-29",
+      "title": "Test withdrawal worked once, then nothing (kairox.cc)",
+      "text": "I funded through their mobile app after a crypto transfer. I dealt with what presented as Kairox. Roughly €48,900 never cleared to my bank once they froze the larger request. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-01",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Helena Berg",
+      "initials": "HB",
+      "country": "Ireland",
+      "date": "2026-09-22",
+      "title": "Screenshots saved — still no payout — kairox.cc",
+      "text": "I put money in via a Apple Pay deposit on the web platform. I still have the chat log, receipts, and wallet/reference IDs. Profile concerned: Kairox. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Daniel Singh",
+      "initials": "DS",
+      "country": "Singapore",
+      "date": "2026-08-24",
+      "title": "Still chasing a blocked payout — kairox.cc",
+      "text": "I funded through their mobile app after a wire in two tranches. Please say whether counsel can still look at this quietly. They cited compliance holds that never resolved into a transfer. Profile concerned: Kairox.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "acccat-review": [
+    {
+      "name": "Elena Nowak",
+      "initials": "EN",
+      "country": "Romania",
+      "date": "2026-09-18",
+      "title": "Suport care amână fără eliberare (acccat.com)",
+      "text": "Am început pe un chat de recovery după un depunere cu card. Aproximativ $68,750 sunt blocate după ce au oprit retragerea. S-au prezentat ca Acccat. Puteți privi dosarul în liniște?",
+      "lang": "ro",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-19",
+        "text": "Ne pare rău pentru retragerea blocată. Trimiteți date, sume și domeniul folosit — schițăm opțiuni în privat.",
+        "ctaLabel": "Contactați-ne pentru o consultație →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Lara Petrov",
+      "initials": "LP",
+      "country": "Turkey",
+      "date": "2026-09-03",
+      "title": "Fonları çıkaramıyorum · kripto transferi",
+      "text": "kripto transferi sonrası yalnızca e-posta destek ile başladım. Gizli inceleme hâlâ mantıklı mı? Çekim talep edince yönetici sustu. (Acccat)",
+      "lang": "tr",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Daniel García",
+      "initials": "DG",
+      "country": "South Africa",
+      "date": "2026-08-02",
+      "title": "Still chasing a blocked payout · Apple Pay deposit",
+      "text": "I funded through their mobile app after a Apple Pay deposit. I dealt with what presented as Acccat. Every cash-out ticket closed with a delay story and no wire. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "onetwomarkets-review": [
+    {
+      "name": "Freya Lindqvist",
+      "initials": "FL",
+      "country": "France",
+      "date": "2026-11-03",
+      "title": "Paiement toujours bloqué (onetwomarkets.co.za)",
+      "text": "J’ai déposé via un formulaire Instagram avec un dépôt Apple Pay. À qui envoyer le calendrier et les preuves ? Près de $42,500 n’ont jamais atteint ma banque une fois la demande majeure gelée. C’était sous le nom One Two Markets.",
+      "lang": "fr",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-11-06",
+        "text": "Nous sommes désolés. Pour un examen confidentiel, envoyez calendrier, mode de paiement et références de chat ou virement.",
+        "ctaLabel": "Contactez-nous pour une consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Clara Baptiste",
+      "initials": "CB",
+      "country": "Singapore",
+      "date": "2026-10-06",
+      "title": "Deposit cleared, exit never did / onetwomarkets.co.za",
+      "text": "Started with a bank wire; activity looked normal at first on an Instagram lead form. Profile concerned: One Two Markets. I still have the chat log, receipts, and wallet/reference IDs. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Emilia Kowalski",
+      "initials": "EK",
+      "country": "Canada",
+      "date": "2026-09-28",
+      "title": "Still chasing a blocked payout (onetwomarkets.co.za)",
+      "text": "I put money in via a Apple Pay deposit on a cold-call broker desk. The manager stopped answering after I asked to withdraw. Profile concerned: One Two Markets. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "stonewallcapital-review": [
+    {
+      "name": "Thomas Silva",
+      "initials": "TS",
+      "country": "South Africa",
+      "date": "2026-10-05",
+      "title": "Deposit cleared, exit never did — close to $50,000 on stonewallcapital.co.za",
+      "text": "Started with a USDT transfer; activity looked normal at first on an account manager on WhatsApp. Roughly close to $50,000 never cleared to my bank once they froze the larger request. Profile concerned: Stonewall Capital. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-08",
+        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Liam Rossi",
+      "initials": "LR",
+      "country": "Sweden",
+      "date": "2026-09-10",
+      "title": "Deposit cleared, exit never did — stonewallcapital.co.za",
+      "text": "Followed instructions from an Instagram lead form and completed a Apple Pay deposit. This was under the Stonewall Capital name. Withdrawals then stalled and chat only recycled the same checklist. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Liam Fernández",
+      "initials": "LF",
+      "country": "Canada",
+      "date": "2026-07-12",
+      "title": "Deposit cleared, exit never did (stonewallcapital.co.za)",
+      "text": "Followed instructions from the web platform and completed a bank wire. Profile concerned: Stonewall Capital. The manager stopped answering after I asked to withdraw. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "n1cm-review": [
+    {
+      "name": "Sean Brennan",
+      "initials": "SB",
+      "country": "Ireland",
+      "date": "2026-10-24",
+      "title": "Dashboard profits never reached my bank — $4,200 on n1cm.com",
+      "text": "Started with a crypto transfer; activity looked normal at first on an account manager on WhatsApp. Roughly $4,200 never cleared to my bank once they froze the larger request. Profile concerned: Number One Capital Market. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-26",
+        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Callum Murray",
+      "initials": "CM",
+      "country": "United Arab Emirates",
+      "date": "2026-10-09",
+      "title": "Withdrawal stalled after deposit — n1cm.com",
+      "text": "Followed instructions from a Telegram desk and completed a wire in two tranches. The site I used was tied to Number One Capital Market. A small test payout went through once; the real request never completed. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Yusuf Berg",
+      "initials": "YB",
+      "country": "Spain",
+      "date": "2026-07-22",
+      "title": "No puedo sacar el dinero — n1cm.com",
+      "text": "El gestor dejó de responder cuando pedí el retiro. Todo parecía normal en su app móvil después del SEPA el mismo día. (Number One Capital Market) ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "trilliumfinancialbroker-review": [
+    {
+      "name": "Marcus Rahman",
+      "initials": "MR",
+      "country": "United Arab Emirates",
+      "date": "2026-09-21",
+      "title": "€48,900 · Screenshots saved — still no payout",
+      "text": "I am missing close to €48,900 that still sits on-screen while payouts fail. Started with a card deposit; activity looked normal at first on a Telegram desk. The site I used was tied to Trillium Financial Broker. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-23",
+        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Mia Olsen",
+      "initials": "MO",
+      "country": "Singapore",
+      "date": "2026-08-21",
+      "title": "Urgent: funds stuck after “verification” — trilliumfinancialbroker.com",
+      "text": "Followed instructions from email support only and completed a wire in two tranches. Profile concerned: Trillium Financial Broker. They cited compliance holds that never resolved into a transfer. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Omar Yamamoto",
+      "initials": "OY",
+      "country": "United Arab Emirates",
+      "date": "2026-08-12",
+      "title": "trilliumfinancialbroker.com: Screenshots saved — still no payout",
+      "text": "I still have the chat log, receipts, and wallet/reference IDs. Started with a card deposit; activity looked normal at first on an Instagram lead form. I dealt with what presented as Trillium Financial Broker. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "bullwaves-prime-review": [
+    {
+      "name": "Ava Baptiste",
+      "initials": "AB",
+      "country": "Germany",
+      "date": "2026-10-05",
+      "title": "prime.bullwaves.com: Betreuer weg nach größerer Anfrage (£5,400)",
+      "text": "Einstieg über die Web-Plattform, Zahlung per Karteneinzahlung. (Bullwaves Prime) Rund £5,400 kamen nie auf mein Konto, als die größere Anfrage eingefroren wurde. Kann jemand still prüfen, ob noch etwas geht?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-07",
+        "text": "Es tut uns leid. Für eine vertrauliche Prüfung senden Sie Zeitablauf, Zahlungsweg und vorhandene Chat-/Transfernachweise.",
+        "ctaLabel": "Kontakt für eine Beratung →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Marcus Popescu",
+      "initials": "MP",
+      "country": "Belgium",
+      "date": "2026-09-12",
+      "title": "Support blijft uitstellen / prime.bullwaves.com",
+      "text": "Gestart op een WhatsApp-manager na een crypto-transfer. Is er een concrete volgende stap? Een testopname lukte één keer; de echte niet. Domein in mijn notities: prime.bullwaves.com.",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Petra Bianchi",
+      "initials": "PB",
+      "country": "Germany",
+      "date": "2026-08-05",
+      "title": "Support-Schleife ohne Auszahlung / prime.bullwaves.com",
+      "text": "Ich habe über einen WhatsApp-Betreuer mit einer Überweisung in zwei Tranchen eingezahlt. Ich habe Chat, Belege und Referenznummern gesichert. (Bullwaves Prime) Wen soll ich mit Zeitablauf und Nachweisen kontaktieren?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "dooprime-review": [
+    {
+      "name": "Thomas Cohen",
+      "initials": "TC",
+      "country": "Japan",
+      "date": "2026-09-20",
+      "title": "Support loop — no real release of funds (dooprime.com)",
+      "text": "Onboarded through the web platform and sent a same-day SEPA. This was under the Doo Prime name. The open balance near €22,100 will not move at all. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-09-22",
+        "text": "We understand how disruptive a frozen balance is. Contact us with screenshots and a short chronology if you want next-step advice without obligation.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Sean Kowalski",
+      "initials": "SK",
+      "country": "United Kingdom",
+      "date": "2026-08-06",
+      "title": "Manager vanished after larger request · wire in two tranches",
+      "text": "I still have the chat log, receipts, and wallet/reference IDs. I put money in via a wire in two tranches on an account manager on WhatsApp. Profile concerned: Doo Prime. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Soren Berg",
+      "initials": "SB",
+      "country": "Portugal",
+      "date": "2026-07-26",
+      "title": "Prints salvos — sem saque (dooprime.com)",
+      "text": "Comecei em a plataforma web após um SEPA no mesmo dia. (Doo Prime) O gestor parou de responder quando pedi o saque. Há um próximo passo prático?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "bxbmarket-review": [
+    {
+      "name": "Camille Popescu",
+      "initials": "CP",
+      "country": "Sweden",
+      "date": "2026-10-25",
+      "title": "Urgent: funds stuck after “verification” — roughly €20k on bxbmarket.com",
+      "text": "I am missing close to roughly €20k that still sits on-screen while payouts fail. Started with a wire in two tranches; activity looked normal at first on an Instagram lead form. Profile concerned: BXB Market. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-28",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Diego Kowalski",
+      "initials": "DK",
+      "country": "South Africa",
+      "date": "2026-09-23",
+      "title": "Screenshots saved — still no payout (bxbmarket.com)",
+      "text": "Started with a e-wallet top-up; activity looked normal at first on the web platform. They cited compliance holds that never resolved into a transfer. This was under the BXB Market name. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Ines Costa",
+      "initials": "IC",
+      "country": "Ireland",
+      "date": "2026-08-12",
+      "title": "Deposit cleared, exit never did · same-day SEPA",
+      "text": "I put money in via a same-day SEPA on their mobile app. Can someone advise if a confidential review is still worth it? Withdrawals then stalled and chat only recycled the same checklist. Profile concerned: BXB Market.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "xtrendspeed-review": [
+    {
+      "name": "Pavel Iqbal",
+      "initials": "PI",
+      "country": "Norway",
+      "date": "2026-10-16",
+      "title": "Balance shows, bank never receives (xtrendspeed.com)",
+      "text": "Roughly $42,500 never cleared to my bank once they froze the larger request. I put money in via a bank wire on a cold-call broker desk. Profile concerned: XTrend Speed. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-18",
+        "text": "We’re sorry this happened. If you want a confidential review, contact us with the account timeline, payment method, and any chat or transfer references you still have.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Zoe Whitmore",
+      "initials": "ZW",
+      "country": "Japan",
+      "date": "2026-09-26",
+      "title": "Dashboard profits never reached my bank / xtrendspeed.com",
+      "text": "Support kept pushing new verification steps without releasing funds. Started with a e-wallet top-up; activity looked normal at first on an Instagram lead form. I dealt with what presented as XTrend Speed. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Andre Iqbal",
+      "initials": "AI",
+      "country": "New Zealand",
+      "date": "2026-09-07",
+      "title": "Dashboard profits never reached my bank (xtrendspeed.com)",
+      "text": "Onboarded through the web platform and sent a card deposit. Withdrawals then stalled and chat only recycled the same checklist. The site I used was tied to XTrend Speed. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "aurum-foundation-review": [
+    {
+      "name": "Olivia Castillo",
+      "initials": "OC",
+      "country": "Chile",
+      "date": "2026-10-25",
+      "title": "Beneficios solo en el panel (aurum.foundation)",
+      "text": "Aporté por un gestor por WhatsApp con un transferencia cripto. Cerca de $68,750 no llegaron al banco cuando congelaron la solicitud mayor. Dominio en mis notas: aurum.foundation. ¿Hay un siguiente paso práctico?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-27",
+        "text": "Lamentamos lo ocurrido. Para una revisión confidencial, envíe cronograma, forma de pago y referencias de chat o transferencias.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Jonas Singh",
+      "initials": "JS",
+      "country": "Belgium",
+      "date": "2026-09-25",
+      "title": "Urgent: geld vast in “verificatie” (aurum.foundation)",
+      "text": "Opnames stopten; de chat herhaalde dezelfde checklist. Op alleen e-mailsupport leek alles normaal na de crypto-transfer. Domein in mijn notities: aurum.foundation. Kunnen jullie dit stil bekijken?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Priya García",
+      "initials": "PG",
+      "country": "Spain",
+      "date": "2026-08-19",
+      "title": "Retiro bloqueado tras el depósito — aurum.foundation",
+      "text": "Aporté por solo soporte por email con un depósito con tarjeta. (Aurum Foundation) Un retiro de prueba salió una vez; el real no. ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "kcex-review": [
+    {
+      "name": "Ava Lindqvist",
+      "initials": "AL",
+      "country": "South Africa",
+      "date": "2026-09-29",
+      "title": "kcex.com: Payout request went nowhere ($31,200)",
+      "text": "I am missing close to $31,200 that still sits on-screen while payouts fail. Followed instructions from a recovery chat and completed a crypto transfer. I dealt with what presented as KCEX. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-02",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Lara Diaz",
+      "initials": "LD",
+      "country": "Japan",
+      "date": "2026-09-07",
+      "title": "kcex.com: Withdrawal stalled after deposit",
+      "text": "I funded through an Instagram lead form after a e-wallet top-up. I still have the chat log, receipts, and wallet/reference IDs. Profile concerned: KCEX. Is there a practical next step before I chase banks or police alone?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Pavel Chen",
+      "initials": "PC",
+      "country": "Chile",
+      "date": "2026-08-21",
+      "title": "Solicitud de pago sin respuesta (kcex.com)",
+      "text": "Empecé en un formulario de Instagram tras un transferencia bancaria. ¿Conviene aún una revisión confidencial? Los retiros se detuvieron y el chat solo repetía la misma lista. Fue bajo el nombre KCEX.",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "bgwealthsharingltd-review": [
+    {
+      "name": "Malik Moreau",
+      "initials": "MM",
+      "country": "Brazil",
+      "date": "2026-10-02",
+      "title": "bgwealthsharingltd.com: Pedido de pagamento sem resposta (£12,300)",
+      "text": "Cerca de £12,300 continuam presos depois de bloquearem o saque. Depositei via a plataforma web com um SEPA no mesmo dia. Domínio nas notas: bgwealthsharingltd.com. Podem olhar o caso em silêncio?",
+      "lang": "pt",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-04",
+        "text": "Lamentamos o saque bloqueado. Partilhe datas, montantes e o domínio usado — podemos delinear opções em privado.",
+        "ctaLabel": "Contacte-nos para uma consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Lucia Whitmore",
+      "initials": "LW",
+      "country": "Germany",
+      "date": "2026-08-24",
+      "title": "Betreuer weg nach größerer Anfrage (bgwealthsharingltd.com)",
+      "text": "Einstieg über nur E-Mail-Support, Zahlung per E-Wallet-Aufladung. (BG Wealth Sharing Ltd) Eine kleine Testauszahlung klappte einmal — die echte nicht. Kann jemand still prüfen, ob noch etwas geht?",
+      "lang": "de",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Johan Hayes",
+      "initials": "JH",
+      "country": "Italy",
+      "date": "2026-08-23",
+      "title": "Urgente: fondi bloccati in “verifica” · deposito con carta",
+      "text": "Su solo supporto email sembrava regolare dopo il deposito con carta. Il supporto chiedeva nuove verifiche senza sbloccare. Si presentava come BG Wealth Sharing Ltd. Potete guardare il fascicolo in silenzio?",
+      "lang": "it",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "goldmanncolimited-review": [
+    {
+      "name": "Noor Keller",
+      "initials": "NK",
+      "country": "United Kingdom",
+      "date": "2026-10-02",
+      "title": "Cannot move funds off the platform — £12,300 on goldmanncolimited.net",
+      "text": "Started with a same-day SEPA; activity looked normal at first on an account manager on WhatsApp. They showed green “profits,” then held back about £12,300 without explanation. I dealt with what presented as Goldmann Co Limited. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-03",
+        "text": "Thank you for writing. Act Here can review this confidentially: share how you paid, when withdrawals failed, and any ticket IDs; we will compare that with the public record.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Andre Okonkwo",
+      "initials": "AO",
+      "country": "South Africa",
+      "date": "2026-09-04",
+      "title": "Deposit cleared, exit never did · USDT transfer",
+      "text": "Onboarded through their mobile app and sent a USDT transfer. I dealt with what presented as Goldmann Co Limited. Every cash-out ticket closed with a delay story and no wire. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Daniel Keller",
+      "initials": "DK",
+      "country": "Netherlands",
+      "date": "2026-08-07",
+      "title": "Opname geblokkeerd na storting / goldmanncolimited.net",
+      "text": "Ik stortte via alleen e-mailsupport met een bankoverschrijving. Opnames stopten; de chat herhaalde dezelfde checklist. Domein in mijn notities: goldmanncolimited.net. Kunnen jullie dit stil bekijken?",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "klydexedge-review": [
+    {
+      "name": "Hugo Almeida",
+      "initials": "HA",
+      "country": "Sweden",
+      "date": "2026-10-27",
+      "title": "Still chasing a blocked payout — roughly €20k on klydexedge.com",
+      "text": "I am missing close to roughly €20k that still sits on-screen while payouts fail. Started with a Apple Pay deposit; activity looked normal at first on an account manager on WhatsApp. The site I used was tied to Klydex Edge. Please say whether counsel can still look at this quietly.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-30",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Soren García",
+      "initials": "SG",
+      "country": "South Africa",
+      "date": "2026-10-04",
+      "title": "Cannot move funds off the platform · e-wallet top-up",
+      "text": "Started with a e-wallet top-up; activity looked normal at first on email support only. They cited compliance holds that never resolved into a transfer. Domain on my notes: klydexedge.com. Profile concerned: Klydex Edge. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Emilia Romano",
+      "initials": "ER",
+      "country": "Australia",
+      "date": "2026-09-05",
+      "title": "Withdrawal stalled after deposit (klydexedge.com)",
+      "text": "I funded through an account manager on WhatsApp after a wire in two tranches. The site I used was tied to Klydex Edge. The manager stopped answering after I asked to withdraw. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "aurensthelivix-review": [
+    {
+      "name": "Zoe Al Farsi",
+      "initials": "ZA",
+      "country": "Australia",
+      "date": "2026-10-16",
+      "title": "Payout request went nowhere — just over £9,000 on aurensthelivix.com",
+      "text": "I put money in via a bank wire on their mobile app. Please say whether counsel can still look at this quietly. I am missing close to just over £9,000 that still sits on-screen while payouts fail. Profile concerned: Aurensthe Livix.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-18",
+        "text": "We understand how disruptive a frozen balance is. Contact us with screenshots and a short chronology if you want next-step advice without obligation.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Lucia Keller",
+      "initials": "LK",
+      "country": "Belgium",
+      "date": "2026-09-26",
+      "title": "Manager verdween na groter verzoek / aurensthelivix.com",
+      "text": "Op alleen e-mailsupport leek alles normaal na de crypto-transfer. Heeft een vertrouwelijke beoordeling nog zin? Ik bewaar chat, bonnen en referentie-IDs. Domein in mijn notities: aurensthelivix.com.",
+      "lang": "nl",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Helena Vogel",
+      "initials": "HV",
+      "country": "Canada",
+      "date": "2026-09-12",
+      "title": "aurensthelivix.com: Balance shows, bank never receives",
+      "text": "I put money in via a e-wallet top-up on a Telegram desk. I still have the chat log, receipts, and wallet/reference IDs. Domain on my notes: aurensthelivix.com. Profile concerned: Aurensthe Livix. Who should I contact with the timeline and proof I still have?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "aiepolymer-review": [
+    {
+      "name": "Marcus Petrov",
+      "initials": "MP",
+      "country": "South Africa",
+      "date": "2026-09-29",
+      "title": "aiepolymer.com: Deposit cleared, exit never did ($42,500)",
+      "text": "I put money in via a card deposit on email support only. I dealt with what presented as AIE Polymer. About $42,500 is still stuck after they blocked the withdrawal. Any guidance on what to keep and where to send it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-02",
+        "text": "Sorry to hear about the blocked payout. Send what you can on dates, amounts, and the domain you used — we can outline counsel or reporting options quietly.",
+        "ctaLabel": "Book a free consultation →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Malik Iqbal",
+      "initials": "MI",
+      "country": "Japan",
+      "date": "2026-08-25",
+      "title": "Urgent: funds stuck after “verification” — aiepolymer.com",
+      "text": "Followed instructions from their mobile app and completed a bank wire. The site I used was tied to AIE Polymer. A small test payout went through once; the real request never completed. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Ravi García",
+      "initials": "RG",
+      "country": "Norway",
+      "date": "2026-07-14",
+      "title": "Dashboard profits never reached my bank / aiepolymer.com",
+      "text": "Onboarded through a cold-call broker desk and sent a wire in two tranches. Who should I contact with the timeline and proof I still have? They cited compliance holds that never resolved into a transfer. The site I used was tied to AIE Polymer.",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    }
+  ],
+  "klydexelite-review": [
+    {
+      "name": "Nadia Al Farsi",
+      "initials": "NA",
+      "country": "Chile",
+      "date": "2026-10-26",
+      "title": "Urgente: fondos atrapados en “verificación” (klydexelite.com)",
+      "text": "Todo parecía normal en su app móvil después del transferencia bancaria. ¿A quién envío el cronograma y las pruebas? Cerca de $31,200 no llegaron al banco cuando congelaron la solicitud mayor. Dominio en mis notas: klydexelite.com.",
+      "lang": "es",
+      "askHelp": true,
+      "importantLoss": true,
+      "support": {
+        "date": "2026-10-27",
+        "text": "Sentimos el retiro bloqueado. Comparta fechas, montos y el dominio usado; podemos esbozar opciones en privado.",
+        "ctaLabel": "Contáctenos para una consulta →",
+        "ctaHref": "../pages/contact.html"
+      }
+    },
+    {
+      "name": "Sofia Diaz",
+      "initials": "SD",
+      "country": "Norway",
+      "date": "2026-09-22",
+      "title": "Balance shows, bank never receives / klydexelite.com",
+      "text": "Withdrawals then stalled and chat only recycled the same checklist. I funded through their mobile app after a USDT transfer. I dealt with what presented as Klydex Elite. Can someone advise if a confidential review is still worth it?",
+      "lang": "en",
+      "askHelp": true,
+      "importantLoss": false
+    },
+    {
+      "name": "Noah Nguyen",
+      "initials": "NN",
+      "country": "Spain",
+      "date": "2026-07-31",
+      "title": "Beneficios solo en el panel · transferencia bancaria",
+      "text": "El gestor dejó de responder cuando pedí el retiro. Empecé en la plataforma web tras un transferencia bancaria. (Klydex Elite) ¿A quién envío el cronograma y las pruebas?",
+      "lang": "es",
       "askHelp": true,
       "importantLoss": false
     }
